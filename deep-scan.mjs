@@ -7,7 +7,7 @@
  * based on the queries defined in portals.yml.
  */
 
-import { readFileSync, existsSync, writeFileSync } from 'fs';
+import { readFileSync, existsSync, writeFileSync, appendFileSync } from 'fs';
 import yaml from 'js-yaml';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import path from 'path';
@@ -19,6 +19,22 @@ dotenv.config();
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PORTALS_PATH = path.join(__dirname, 'portals.yml');
 const PIPELINE_PATH = path.join(__dirname, 'data', 'pipeline.md');
+const HISTORY_PATH = path.join(__dirname, 'data', 'scan-history.tsv');
+
+function loadSeenUrls() {
+  if (!existsSync(HISTORY_PATH)) return new Set();
+  return new Set(
+    readFileSync(HISTORY_PATH, 'utf-8')
+      .split('\n')
+      .map(l => l.split('\t')[0].trim())
+      .filter(Boolean)
+  );
+}
+
+function appendHistory(url, title) {
+  const line = `${url}\t${title}\t${new Date().toISOString().slice(0, 10)}\tdeep-scan\n`;
+  appendFileSync(HISTORY_PATH, line, 'utf-8');
+}
 
 async function main() {
   const apiKey = process.env.GEMINI_API_KEY;
@@ -72,9 +88,14 @@ async function main() {
         const matches = text.matchAll(/(https?:\/\/\S+)\s*\|\s*([^|]+)\s*\|\s*([^|\n]+)/g);
         let found = 0;
         
+        const seenUrls = loadSeenUrls();
         let newJobsText = '';
         for (const match of matches) {
-          newJobsText += `- [ ] ${match[1]} | ${match[2].trim()} | ${match[3].trim()}\n`;
+          const url = match[1];
+          if (seenUrls.has(url)) continue;
+          const title = match[3].trim();
+          newJobsText += `- [ ] ${url} | ${match[2].trim()} | ${title}\n`;
+          appendHistory(url, title);
           found++;
         }
         

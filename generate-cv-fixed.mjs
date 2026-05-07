@@ -155,5 +155,7 @@ const customStyle = `
 `;
 template = template.replace('</head>', `${customStyle}</head>`);
 
-fs.writeFileSync('output/cv-venkatesh-general.html', template);
-console.log('HTML generated at output/cv-venkatesh-general.html');
+const candidateSlug = (profile.candidate.full_name || 'candidate').toLowerCase().replace(/\s+/g, '-');
+const outPath = `output/cv-${candidateSlug}-general.html`;
+fs.writeFileSync(outPath, template);
+console.log(`HTML generated at ${outPath}`);

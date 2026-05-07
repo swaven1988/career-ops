@@ -70,9 +70,14 @@ app.post('/api/run', async (req, res) => {
       const jdHtml = await jdResponse.text();
       // Basic extraction of text to avoid overwhelming the prompt
       // Slice to 5000 chars to stay under the Windows 8192 CMD limit
-      const jdText = jdHtml.replace(/<[^>]*>/g, ' ').slice(0, 5000).replace(/"/g, "'"); 
-      
-      const spawnArgs = ['@google/gemini-cli', '--model', 'flash', '-p', `"Evaluate this job, SAVE THE REPORT to reports/, and UPDATE data/applications.md: ${jdText}"`];
+      const jdText = jdHtml
+        .replace(/<[^>]*>/g, ' ')
+        .slice(0, 5000)
+        .replace(/["`\\$;|&(){}\n\r\t]/g, ' ')  // strip shell metacharacters
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      const spawnArgs = ['@google/gemini-cli', '--model', 'flash', '-p', `Evaluate this job, SAVE THE REPORT to reports/, and UPDATE data/applications.md: ${jdText}`];
       const child = spawn('npx', spawnArgs, { cwd: ROOT, shell: true, env: process.env });
       
       child.stdout.on('data', (data) => res.write(data));
@@ -113,6 +118,6 @@ app.post('/api/run', async (req, res) => {
 });
 
 const PORT = 3010;
-app.listen(PORT, () => {
+app.listen(PORT, '127.0.0.1', () => {
   console.log(`🚀 Career-Ops Backend running at http://localhost:${PORT}`);
 });
