@@ -78,7 +78,7 @@ export function updateApplicationStatus(rootPath, number, newStatus) {
   const newLines = lines.map(line => {
     if (line.includes(`| ${number} |`)) {
       const parts = line.split('|');
-      parts[6] = ` **${newStatus}** `;
+      parts[6] = ` ${newStatus} `;
       return parts.join('|');
     }
     return line;

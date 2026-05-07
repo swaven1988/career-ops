@@ -49,15 +49,21 @@ async function main() {
     process.exit(1);
   }
 
+  const cliArgs = process.argv.slice(2);
+  const remoteOnly = cliArgs.includes('--remote');
+
   const config = yaml.load(readFileSync(PORTALS_PATH, 'utf-8'));
-  const queries = (config.search_queries || []).filter(q => q.enabled !== false);
+  let queries = (config.search_queries || []).filter(q => q.enabled !== false);
+  if (remoteOnly) queries = queries.filter(q => q.remote === true);
 
   if (queries.length === 0) {
-    console.log('No enabled search queries found in portals.yml');
+    console.log(remoteOnly
+      ? 'No remote-tagged queries found. Add remote: true to queries in portals.yml.'
+      : 'No enabled search queries found in portals.yml');
     return;
   }
 
-  console.log(`🔍 Starting Deep Search across ${queries.length} query templates...`);
+  console.log(`🔍 Starting Deep Search across ${queries.length} query templates${remoteOnly ? ' (remote only)' : ''}...`);
   
   const genAI = new GoogleGenerativeAI(apiKey);
   const model = genAI.getGenerativeModel({

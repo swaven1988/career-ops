@@ -29,6 +29,12 @@
           <button class="nav-item" data-view="profile" data-title="Profile">
             <span class="icon">👤</span> Profile
           </button>
+          <button class="nav-item" data-view="cv" data-title="CV Generator">
+            <span class="icon">📄</span> CV Generator
+          </button>
+          <button class="nav-item" data-view="remote" data-title="Remote Jobs">
+            <span class="icon">🌍</span> Remote Jobs
+          </button>
         </nav>
         <div class="sidebar-footer">
           <div style="margin-bottom: 12px">
@@ -78,6 +84,54 @@
           <!-- Views will be injected here -->
         </section>
       </main>
+
+      <!-- Report Viewer Modal -->
+      <div id="report-overlay" class="hidden">
+        <div class="report-panel">
+          <div class="report-panel-header">
+            <span id="report-filename">report.md</span>
+            <button id="close-report">×</button>
+          </div>
+          <div id="report-content"></div>
+        </div>
+      </div>
+
+      <!-- Apply Modal -->
+      <div id="apply-modal" class="hidden">
+        <div class="apply-panel">
+          <div class="apply-panel-header">
+            <div>
+              <div id="apply-title" style="font-size: 18px; font-weight: 700; font-family: 'Outfit', sans-serif">Apply</div>
+              <div id="apply-subtitle" style="color: var(--text-muted); font-size: 13px; margin-top: 4px"></div>
+            </div>
+            <button id="close-apply-modal">×</button>
+          </div>
+          <div class="apply-panel-body">
+            <div class="apply-field-group">
+              <label class="apply-field-label">Job URL</label>
+              <div style="display: flex; gap: 8px; align-items: center">
+                <input id="apply-url-input" type="text" class="apply-url-input" placeholder="https://jobs.greenhouse.io/... or paste here" />
+                <button class="btn-icon" id="apply-open-url" title="Open in browser" style="font-size: 20px">↗</button>
+              </div>
+            </div>
+            <div style="border-top: 1px solid var(--glass-border); padding-top: 16px">
+              <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 10px">Your Details (from profile.yml)</div>
+              <div id="apply-profile-fields" style="display: flex; flex-direction: column; gap: 8px"></div>
+            </div>
+            <div class="apply-field-group">
+              <label class="apply-field-label">Attach CV PDF</label>
+              <select id="apply-cv-select" class="apply-url-input" style="font-family: inherit; cursor: pointer">
+                <option value="">-- No attachment (add manually in browser) --</option>
+              </select>
+            </div>
+            <div style="display: flex; gap: 10px; padding-top: 4px">
+              <button id="btn-autofill" class="btn-primary" style="flex: 1">🤖 Auto-fill Form</button>
+              <button id="btn-mark-applied" class="btn-secondary" style="flex: 1; border-color: #10b981; color: #10b981">✅ Mark as Applied</button>
+            </div>
+            <p style="font-size: 11px; color: var(--text-muted); text-align: center; margin-top: 4px">Auto-fill opens a browser window — review all fields before submitting</p>
+          </div>
+        </div>
+      </div>
 
       <div id="terminal-overlay" class="hidden">
         <div class="terminal">
