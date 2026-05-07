@@ -9,19 +9,26 @@ candidate:
   twitter: ''
 target_roles:
   primary:
-    - Senior Data Platform Engineer
-    - Staff Data Engineer
-    - Solutions Architect (Data)
+    - Data Engineer
+    - Data Platform Engineer
+    - Hadoop Administrator
+    - Big Data Administrator
+    - Cloudera Data Engineer
+    - Cloudera Administrator
+    - Hadoop Platform Support Engineer
   archetypes:
-    - name: Data Platform Engineer
-      level: Senior/Staff
-      fit: primary
-    - name: Big Data Architect
+    - name: Data Engineer / Data Platform Engineer
       level: Senior
-      fit: secondary
-    - name: Solutions Architect
+      fit: primary
+    - name: Hadoop Administrator / Big Data Admin
+      level: Senior
+      fit: primary
+    - name: Cloudera Data Engineer / Cloudera Administrator
+      level: Senior
+      fit: primary
+    - name: Hadoop Platform Support Engineer
       level: Mid-Senior
-      fit: adjacent
+      fit: primary
 narrative:
   headline: >-
     Senior Data Platform Engineer | 14+ Years Exp | Big Data & Cloud Native

@@ -15,36 +15,21 @@
 
 ## Your Target Roles
 
-<!-- Replace these with YOUR target roles. Examples:
-     - Senior Backend Engineer / Staff Platform Engineer
-     - AI Product Manager / Technical PM
-     - Data Engineer / ML Engineer
-     - DevOps / SRE / Platform
-     Whatever you're optimizing for. -->
-
 | Archetype | Thematic axes | What they buy |
 |-----------|---------------|---------------|
-| **AI Platform / LLMOps Engineer** | Evaluation, observability, reliability, pipelines | Someone who puts AI in production with metrics |
-| **Agentic Workflows / Automation** | HITL, tooling, orchestration, multi-agent | Someone who builds reliable agent systems |
-| **Technical AI Product Manager** | GenAI/Agents, PRDs, discovery, delivery | Someone who translates business to AI product |
-| **AI Solutions Architect** | Hyperautomation, enterprise, integrations | Someone who designs end-to-end AI architectures |
-| **AI Forward Deployed Engineer** | Client-facing, fast delivery, prototyping | Someone who delivers AI solutions to clients fast |
-| **AI Transformation Lead** | Change management, adoption, org enablement | Someone who leads AI transformation in an org |
+| **Data Engineer / Data Platform Engineer** | ETL/ELT pipelines, Spark, Kafka, Airflow, data lakes | Someone who designs and owns scalable data pipelines |
+| **Hadoop Administrator / Big Data Admin** | HDFS, YARN, HBase, cluster ops, tuning, security | Someone who keeps the Hadoop cluster healthy at scale |
+| **Cloudera Data Engineer / Cloudera Administrator** | CDH/CDP, Ambari/CM, Ranger, Atlas, Knox | Someone with hands-on Cloudera stack expertise |
+| **Hadoop Platform Support Engineer** | Incident triage, performance tuning, user support, SLA | Someone who runs Tier-2/3 support for Big Data platforms |
 
 ## Your Adaptive Framing
 
-<!-- Map YOUR projects to each archetype. Example:
-     | Platform / LLMOps | My monitoring dashboard project | article-digest.md |
-     | Agentic | My chatbot with HITL escalation | cv.md section 3 | -->
-
 | If the role is... | Emphasize about you... | Proof point sources |
 |-------------------|------------------------|---------------------|
-| Platform / LLMOps | Production systems builder, observability, evals | article-digest.md + cv.md |
-| Agentic / Automation | Multi-agent orchestration, HITL, reliability | article-digest.md + cv.md |
-| Technical AI PM | Product discovery, PRDs, metrics | cv.md + article-digest.md |
-| Solutions Architect | System design, integrations, enterprise-ready | article-digest.md + cv.md |
-| Forward Deployed Engineer | Fast delivery, client-facing, prototype to prod | cv.md + article-digest.md |
-| AI Transformation Lead | Change management, team enablement, adoption | cv.md + article-digest.md |
+| Data Engineer / Platform | Spark optimization (80-85% gains), Iceberg/Trino, zero-downtime migrations | cv.md + article-digest.md |
+| Hadoop Admin / Big Data Admin | HDFS/YARN cluster ops, HA setup, capacity planning, JVM tuning | cv.md |
+| Cloudera Engineer / Admin | CDH/CDP stack, Cloudera Manager, Ranger/Atlas/Knox security | cv.md |
+| Platform Support Engineer | SLA-driven reliability, incident response, data observability (30-40% fewer incidents) | cv.md + article-digest.md |
 
 ## Your Exit Narrative
 

@@ -2,12 +2,10 @@
 
 ## Pendientes
 
-- [ ] https://www.linkedin.com/jobs/view/4265230371/ | Prima | Math, Physics &amp; Engineering Graduates
 - [ ] https://www.linkedin.com/jobs/view/4406843754/ | Max Accelerate Technology Group | Head of Lead Generation (Kompetenza &amp; Datamax AI)
 - [ ] https://www.linkedin.com/jobs/view/4372794877/ | ChainGPT | Chief Executive Officer (CEO) - AIVM Blockchain - Middle East
 - [ ] https://www.linkedin.com/jobs/view/4409186498/ | ChainGPT | Head of Product - AIVM (Agentic AI &amp; Blockchain Platform) - Middle East
 - [ ] https://www.linkedin.com/jobs/view/4296081635/ | Revolut | Head of Product (Fraud)
-- [ ] https://www.linkedin.com/jobs/view/4407112919/ | EyeSpy Recruitment - iGaming Specialists | Head of HR, Technology &amp; Operations
 - [ ] https://www.linkedin.com/jobs/view/4402454959/ | AI Acquisition | Head of Engineering
 - [ ] https://www.linkedin.com/jobs/view/4409805727/ | Paradox EN | Head of Media / Creative Director - Performance Ads
 - [ ] https://www.linkedin.com/jobs/view/4345451099/ | Paradox EN | Head Of Growth - EdTech (Full remote - French fluent 🇫🇷)
@@ -32,7 +30,6 @@
 
 - [ ] https://n8n.io/jobs | n8n | Senior Support Engineer
 - [ ] https://cordatusresourcegroup.careers-page.com/ | Cordatus Resource Group | Senior Automation Engineer - Remote
-- [ ] https://www.ashbyhq.com/careers | Ashby | Strategy & Operations, Customer Success
 
 - [ ] https://job-boards.greenhouse.io/workato/jobs/8437665002 | Workato | Forward Deployed Engineer
 - [ ] https://boards.eu.greenhouse.io/nice/jobs/ | NICE | Forward Deployed Engineer
@@ -54,20 +51,15 @@
 - [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer
 - [ ] https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/vapi/854a9bf5-e330-4afa-9c0f-38c3d6084808 | Vapi | Member of Technical Staff, Forward Deployed
-- [ ] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST)
 - [ ] https://jobs.ashbyhq.com/deepgram/844ec2d9-4256-4be0-a6c6-78ebf1391a78 | Deepgram | Solutions Architect (EST or PST)
-- [ ] https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe
 - [ ] https://jobs.ashbyhq.com/deepgram/9cb09363-9b68-4957-869a-da70b95ad6bd | Deepgram | Solutions Architect - Europe
-- [ ] https://jobs.ashbyhq.com/deepgram/1278975c-e0d8-45be-82dd-8d0d1f2774e5 | Deepgram | Senior Pre-Sales Solutions Engineer - India
 - [ ] https://jobs.ashbyhq.com/deepgram/64895340-1377-4b40-b182-1ec6b9644997 | Deepgram | Solutions Architect - India
-- [ ] https://jobs.ashbyhq.com/deepgram/f8b9322f-67a4-448f-bd2c-e9a102c4a55d | Deepgram | EMEA Account Executive (German speaking)
 - [ ] https://jobs.ashbyhq.com/deepgram/c69aab8a-e1d5-44ac-9113-12671a364015 | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants
 - [ ] https://jobs.ashbyhq.com/deepgram/0cad835e-c581-4735-8e8f-b9f1f7107b10 | Deepgram | GTM Engineer
 - [ ] https://jobs.ashbyhq.com/deepgram/2fc57802-1d2d-4796-aaea-e00586dc6792 | Deepgram | Senior Forward-Deployed Engineer, Federal
 - [ ] https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise
 - [ ] https://jobs.ashbyhq.com/deepgram/b10db691-f77c-4a65-8f7c-ff9574f53f1e | Deepgram | Senior Solutions Engineer, Federal
 - [ ] https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e | Deepgram | ML Ops Infrastructure Engineer
-- [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA)
 - [ ] https://jobs.ashbyhq.com/deepgram/be9609b4-b48d-4421-90e5-69049ad0d6ce | Deepgram | Solutions Architect (San Francisco, CA)
 - [ ] https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America
 - [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer
@@ -83,8 +75,6 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0 | ElevenLabs | Solutions Engineer - India
 - [ ] https://jobs.ashbyhq.com/elevenlabs/5d01b08d-a300-4f29-93e4-039147d7ddd7 | ElevenLabs | Enterprise Solutions Engineer - Oceania
 - [ ] https://jobs.ashbyhq.com/elevenlabs/01d0899b-0e40-4af2-a859-5d21962666b1 | ElevenLabs | Infrastructure Engineer (Data & Automations)
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7591182 | Intercom | Account Executive, Commercial - French Speaking 
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7386163 | Intercom | Account Executive, MidMarket - German Speaking
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7765466 | Intercom | Engineering Manager, Forward Deployed Engineering
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
@@ -121,10 +111,6 @@
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8245333002 | Airtable | Product Manager, Omni
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8462421002 | Airtable | Senior Partner Solutions Architect
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8487502002 | Airtable | Senior Solutions Architect
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161980008 | Anthropic | Account Executive, Beneficial Deployments (French Speaking)
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165651008 | Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking)
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161986008 | Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4948535008 | Anthropic | Account Executive, Mid Market - UKI
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5127289008 | Anthropic | Business Systems Analyst, Data Enrichment
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5156057008 | Anthropic | Data Engineer, Safeguards
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5155195008 | Anthropic | Finance Systems Integration Engineer
@@ -150,9 +136,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183006008 | Anthropic | Senior Product Manager, Education Labs
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5126080008 | Anthropic | Solutions Architect, National Security
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4978280008 | Anthropic | Startup Account Executive - UKI
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041290008 | Anthropic | Strategic Account Executive, Investment Banking & Capital Markets
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5194810008 | Anthropic | Workday Business Systems Analyst, HCM 
 - [ ] https://jobs.ashbyhq.com/lindy/ff98a7a7-26e8-48dc-8ecd-c9a69c1f390a | Lindy | Growth Product Manager
 - [ ] https://jobs.ashbyhq.com/lindy/e56a424d-5a40-450b-8978-cd5e7c86deed | Lindy | Data Engineer
@@ -168,10 +151,7 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect 
 - [ ] https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08 | n8n | Senior Solutions Engineer | East Coast - Remote
 - [ ] https://jobs.ashbyhq.com/n8n/9ad9ea4e-4dce-47dc-ab70-bd251b521c94 | n8n | Executive Assistant (German speaking)
-- [ ] https://jobs.ashbyhq.com/n8n/250fd347-60dd-4902-b0cd-27a7f3f31617 | n8n | Mid-Market Account Executive (German speaking - Remote Europe)
 - [ ] https://jobs.ashbyhq.com/n8n/a259b31d-3df5-4bc0-9feb-865e85016fba | n8n | GTM (German-speaking) Talent Pool
-- [ ] https://jobs.ashbyhq.com/n8n/ffafc55a-6fcc-4dfb-aef2-7979391d3ffb | n8n | Senior Customer Success Manager - Spanish Speaking (EMEA)
-- [ ] https://jobs.ashbyhq.com/n8n/0d3cda2a-b592-4733-a6a9-cd49f4ddc925 | n8n | Mid-Market Account Executive (Spanish or French Speaking - Remote Europe) 
 - [ ] https://jobs.ashbyhq.com/n8n/53da0231-00c9-4aae-80e3-16d3a93c3381 | n8n | Senior Solutions Engineer | West Coast - Remote
 - [ ] https://jobs.ashbyhq.com/sierra/422cb7bb-ab03-447b-808c-6d72f59bbd2f | Sierra | Product Manager, Agent Data Platform
 - [ ] https://jobs.ashbyhq.com/sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717 | Sierra | Product Manager, Agent Development
@@ -180,11 +160,9 @@
 - [ ] https://jobs.ashbyhq.com/sierra/ecbaa355-c644-471a-ac11-07a21ee0c543 | Sierra | Sales Engineer (French speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/38f06024-4ee9-47d6-a36f-f2791ac1e412 | Sierra | Product Manager, Agent Development (French speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/4892f01e-8871-4b32-8963-527f1cf8db5d | Sierra | Product Manager, Agent Development (Spanish speaking)
-- [ ] https://jobs.ashbyhq.com/sierra/39c1ed90-786b-41c6-943e-7c2427f90043 | Sierra | Enterprise Account Executive, Europe (German speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra | Software Engineer, Agent (German speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra | Software Engineer, Agent (French speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking)
-- [ ] https://jobs.ashbyhq.com/sierra/9f5b273f-1604-4b5b-bbbb-13cf0af35150 | Sierra | Enterprise Account Executive, Europe (Italian speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform
 - [ ] https://jobs.ashbyhq.com/sierra/8d46d44c-8294-4807-a6b1-5087f0506a38 | Sierra | Strategist, Agent Development (Spanish speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e | Sierra | Strategist, Agent Development (French speaking)
@@ -195,7 +173,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/edf44ab4-538b-4e65-b93c-392c950b9fe6 | Sierra | Product Manager, Agent Development 
 - [ ] https://jobs.ashbyhq.com/sierra/2e07f536-bbaa-4cc0-957a-774ddf99de64 | Sierra | Product Manager, Agent Development (Italian speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra | Software Engineer, Agent (Arabic speaking)
-- [ ] https://jobs.ashbyhq.com/sierra/fe103c28-bc7e-433e-ad82-90a1655cba32 | Sierra | Enterprise Account Executive, Europe (Arabic speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/0e73be8d-e05f-4c47-aa74-416b2984334c | Sierra | Strategist, Agent Development (Italian speaking)
 - [ ] https://jobs.ashbyhq.com/sierra/10d2e2f1-6657-40c9-b6fb-6999c76df6cf | Sierra | Product Manager, Agent SDK
 - [ ] https://jobs.ashbyhq.com/sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73 | Sierra | Product Manager, Agent Development - Healthcare
@@ -215,7 +192,6 @@
 - [ ] https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b | Cohere | Forward Deployed Engineer, Infrastructure Specialist
 - [ ] https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer, Agentic Platform
 - [ ] https://jobs.ashbyhq.com/cohere/6745547c-cc72-466c-867c-a0539b04909b | Cohere | Forward Deployed Engineer, Prompt Specialist
-- [ ] https://jobs.ashbyhq.com/cohere/e09a69b2-55ee-4141-99f6-cc4d8e39347a | Cohere | Customer Success Manager (Montreal - French Speaking)
 - [ ] https://jobs.ashbyhq.com/cohere/eb58bff6-645c-4434-9893-b34586d69be7 | Cohere | Solutions Architect - San Francisco 
 - [ ] https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997 | Cohere | Forward Deployed Engineer, Sovereign AI
 - [ ] https://jobs.ashbyhq.com/cohere/a8122632-cc3b-4a1a-bd78-4b4b9466cb38 | Cohere | Product Manager, Safety Research
@@ -268,7 +244,6 @@
 - [ ] https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer [Pre and Post-Sales] - SMB
 - [ ] https://jobs.ashbyhq.com/attio/c05a61a4-ae7c-4d93-a920-08d60c7448ad | Attio | Senior Platform Engineer 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4547218005 | Glean | Cloud Infrastructure Engineer
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4652361005 | Glean | Enterprise Account Executive, UKI
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659409005 | Glean | Forward Deployed Product Manager
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4663045005 | Glean | Partner Solutions Architect
@@ -289,7 +264,6 @@
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4838230101 | Speechmatics | ML Platform Engineer
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4673941101 | Speechmatics | Senior Product Manager
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4823688101 | Speechmatics | Solutions Engineer
-- [ ] https://jobs.ashbyhq.com/DeepL/b1dc9616-cf5b-4edc-9d08-2a15dbf6fb65 | DeepL | Enterprise Account Executive | UKI
 - [ ] https://jobs.ashbyhq.com/DeepL/08d92b33-3ced-4d47-be31-3323e4c18b8b | DeepL | Staff Product Manager
 - [ ] https://jobs.ashbyhq.com/DeepL/734dfbcf-9cbb-4259-848a-35d304355e77 | DeepL | Group Product Manager | Business Acceleration Track
 - [ ] https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608 | Decagon | Senior Agent Product Manager
@@ -309,22 +283,14 @@
 - [ ] https://jobs.ashbyhq.com/decagon/95dadea4-8bd2-421a-bf3f-51c04e102ee2 | Decagon | Enterprise Solutions Engineer
 - [ ] https://jobs.ashbyhq.com/decagon/c2ea9bd2-7a20-4fbb-b301-5e587415baeb | Decagon | AI Transformation Specialist
 - [ ] https://jobs.ashbyhq.com/decagon/060b5fd4-9962-491f-8116-4faa778500d7 | Decagon | Enterprise Solutions Engineer - LATAM
-- [ ] https://jobs.ashbyhq.com/zapier/45b2c110-f8e0-497a-914c-72fddf447ed0 | Zapier | Automation Strategist (Customer Success)
 - [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4925659008 | Black Forest Labs | Member of Technical Staff - Infrastructure Engineer
 - [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4642947008 | Black Forest Labs | Senior Solutions Architect  
 - [ ] https://helsing.ai/jobs/4312517101?gh_jid=4312517101 | Helsing | AI Working Student - Computer Vision
 - [ ] https://helsing.ai/jobs/4124326101?gh_jid=4124326101 | Helsing | Product Manager
 - [ ] https://helsing.ai/jobs/4790417101?gh_jid=4790417101 | Helsing | Product Manager - Development, Testing & Validation Platform
 - [ ] https://helsing.ai/jobs/4785352101?gh_jid=4785352101 | Helsing | Product Manager - Space
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/6137574 | Contentful | Business Development Representative, Commercial- French speaking (f/m/d)
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/5853004 | Contentful | Business Development Representative, Enterprise - French speaking (f/m/d)
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/5853009 | Contentful | Business Development Representative, Enterprise- German speaking (f/m/d)
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/6671440 | Contentful | Business Development Representative, Enterprise- Italian Speaking (f/m/d)
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/6696223 | Contentful | Business Development Representative, Enterprise- Spanish speaking (f/m/d)
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/5852946 | Contentful | Business Development Representative, Mid Market UKI (f/m/d)
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/7701133 | Contentful | Legal Working Student (f/m/d)
-- [ ] https://job-boards.greenhouse.io/contentful/jobs/7177651 | Contentful | Mid Market Account Executive - UKI (f/m/d)
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/7565088 | Contentful | Senior Data Engineer (f/m/d)
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/7682062 | Contentful | Senior Platform Engineer (f/m/d)
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/7727884 | Contentful | Senior Product Manager (f/m/d)
@@ -355,7 +321,6 @@
 - [ ] https://n26.com/en-eu/careers/positions/7806655?gh_jid=7806655 | N26 | Banking Operations Analyst -GDPR (German speaker)
 - [ ] https://n26.com/en-eu/careers/positions/7818361?gh_jid=7818361 | N26 | Engineering Manager - Data Platform
 - [ ] https://n26.com/en-eu/careers/positions/7597686?gh_jid=7597686 | N26 | Senior Full-Stack Security Automation Engineer
-- [ ] https://n26.com/en-eu/careers/positions/7682984?gh_jid=7682984 | N26 | Senior Legal Counsel Banking Law
 - [ ] https://n26.com/en-eu/careers/positions/7353321?gh_jid=7353321 | N26 | Senior Manager Banking Operations
 - [ ] https://n26.com/en-eu/careers/positions/7668142?gh_jid=7668142 | N26 | (Senior) Product Manager - Onboarding & KYC
 - [ ] https://n26.com/en-eu/careers/positions/7140089?gh_jid=7140089 | N26 | Senior Product Manager - Payments Platform (Backend)
@@ -372,7 +337,6 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/6313846003?gh_jid=6313846003 | Celonis | Head of Industry - Banking 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7648582003?gh_jid=7648582003 | Celonis | Lead Value Engineer - Banking
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7544126003?gh_jid=7544126003 | Celonis | Manager, Value Engineering - Public Sector Transformation
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/6559242003?gh_jid=6559242003 | Celonis | Senior Applied AI Engineer (Pre-Sales) - Public Sector Transformation 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7614505003?gh_jid=7614505003 | Celonis | Senior Applied AI Engineer (Value Engineering) - EMEA/UKIE
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7695040003?gh_jid=7695040003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7683570003?gh_jid=7683570003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence (Public Sector)
@@ -410,7 +374,6 @@
 - [ ] https://sumup.com/careers/positions/8458928002?gh_jid=8458928002 | SumUp | Senior Product Manager - Bookings
 - [ ] https://sumup.com/careers/positions/8366752002?gh_jid=8366752002 | SumUp | Senior Product Manager - Hardware
 - [ ] https://sumup.com/careers/positions/8418443002?gh_jid=8418443002 | SumUp | Senior Technical Product Manager - Commercial Data
-- [ ] https://sumup.com/careers/positions/8092189002?gh_jid=8092189002 | SumUp |  Talent Acquisition Partner - Spanish  Speaking  (1 year FTC) 
 - [ ] https://sumup.com/careers/positions/8499763002?gh_jid=8499763002 | SumUp | Working Student Payroll & People Ops
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8460441002 | Wayve | Application Software Engineer - Relocation to Tokyo
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8483723002 | Wayve | Cloud Infrastructure Engineer
@@ -420,13 +383,10 @@
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8422027002 | Wayve | Software Integration Engineer (6 months Contract) 
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8325451002 | Wayve | Technical Product Manager - Robotaxi
 - [ ] https://jobs.ashbyhq.com/synthesia/46650970-494a-4d4b-ab4b-75c2a3b06daf | Synthesia | Senior Data Engineer
-- [ ] https://jobs.ashbyhq.com/synthesia/81fbed84-4d11-491c-8659-6a96d5ad4e77 | Synthesia | Strategic Account Executive (German Speaking)
 - [ ] https://jobs.ashbyhq.com/synthesia/fd3617a1-b117-417d-bee5-416ea9193150 | Synthesia | Product Manager, Video Creation & Editing (Principal-level)
-- [ ] https://jobs.ashbyhq.com/synthesia/680317a4-b421-4bc5-9e21-45bcc4901231 | Synthesia | Strategic Customer Success Manager - German Speaking
 - [ ] https://jobs.ashbyhq.com/synthesia/2524043b-dbcc-4497-bd2e-3965fdbe72af | Synthesia | Business Systems Administraton
 - [ ] https://jobs.ashbyhq.com/synthesia/163816a3-11d0-4f20-b138-6629c73e3886 | Synthesia | Solutions Architect
 - [ ] https://jobs.ashbyhq.com/synthesia/dd312cfa-e357-4f05-92a5-4a253a6b7f78 | Synthesia | Solutions Consultant (German Speaking)
-- [ ] https://jobs.ashbyhq.com/synthesia/b8d27ddc-dd45-452e-8d24-7e44c17d33c8 | Synthesia | Customer Success Manager - Spanish + Italian Speaking 
 - [ ] https://jobs.ashbyhq.com/synthesia/a34c653b-1f1a-4847-a515-cca032621f51 | Synthesia | Manager, Solutions Consulting (German Speaking)
 - [ ] https://jobs.ashbyhq.com/synthesia/e9c63d3d-13cc-4049-ae0a-5fef402c595b | Synthesia | Principal ML Platform Engineer
 - [ ] https://jobs.ashbyhq.com/synthesia/713ae2ad-aad2-48c9-987a-0d409ae52b00 | Synthesia | Infrastructure Engineer
@@ -469,7 +429,6 @@
 - [ ] https://jobs.ashbyhq.com/claylabs/749a6373-0979-424a-abc9-9cfc511a5e44 | Clay Labs | Product Manager, Enrichment & AI
 - [ ] https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f | Clay Labs | Forward Deployed GTME
 - [ ] https://jobs.ashbyhq.com/claylabs/46544fc6-a6d0-4aed-985c-2d3a2e908f61 | Clay Labs | Partner Manager (French Speaking)
-- [ ] https://jobs.ashbyhq.com/claylabs/9b05b885-eb08-4ad0-82b1-4da33dcad4a2 | Clay Labs | French-Speaking ClayDR (SDR - French-Speaking)
 - [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101 | Amplemarket | Spontaneous Application - Data Engineer
 - [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066888101 | Amplemarket | Spontaneous Application - Infrastructure Engineer
 - [ ] https://jobs.ashbyhq.com/workos/8317f6f4-3d85-4a9f-bec3-753e4b646fc2 | WorkOS | Product Engineer - AuthKit
@@ -493,7 +452,6 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5838911004 | Hightouch | Senior Enterprise Solutions Engineer, New York
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5852695004 | Hightouch | Solutions Engineer EMEA (German speaking) 
 - [ ] https://job-boards.greenhouse.io/planetscale/jobs/4052805009 | PlanetScale | Solutions Engineer
-- [ ] https://jobs.lever.co/pigment/dc39fde7-ba3b-4f78-9697-f90e9c081f74 | Pigment | Business Development Representative (DACH) - German Speaking
 - [ ] https://jobs.lever.co/pigment/0aede960-d9cd-45c1-92e4-82e3cb3b2ae2 | Pigment | Data Engineer (Growth Team)
 - [ ] https://jobs.lever.co/pigment/7203b653-63e5-4584-8cf6-2f9e20b01944 | Pigment | Global Head of RevOps
 - [ ] https://jobs.lever.co/pigment/fcf8094a-8356-43c1-b3ef-a58e35feb665 | Pigment | Growth Manager (GTM Engineer)
@@ -544,7 +502,6 @@
 - [ ] https://jobs.lever.co/palantir/fa93a1f8-dc95-40d0-b5ca-f2aebaab0806 | Palantir | Deployment Strategist - Japan Forward Deployed
 - [ ] https://jobs.lever.co/palantir/1a53939d-8ffa-4570-b31a-6d0bc53fdb59 | Palantir | Deployment Strategist - Korea Forward Deployed
 - [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
-- [ ] https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd | Palantir | Forward Deployed Enablement Engineer - Customer Success
 - [ ] https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2 | Palantir | Forward Deployed Engineer - Mixed Reality
 - [ ] https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846 | Palantir | Forward Deployed Infrastructure Engineer - UK Government
 - [ ] https://jobs.lever.co/palantir/74748e0e-a0bc-4c53-a636-ef14e36d9b5e | Palantir | Forward Deployed Infrastructure Engineer - US Government
@@ -584,9 +541,6 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7279208 | Intercom | Staff Product Manager - Web Growth
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7377200 | Intercom | Staff/Senior AI Product Manager
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5796302004 | Vercel | Solutions Architect
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165641008 | Anthropic | Account Executive, Beneficial Deployments (French Speaking)
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161988008 | Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking)
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165670008 | Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121561008 | Anthropic | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/decagon/e31c0645-7325-43b9-9d58-0acc40904240 | Decagon | Senior Agent Product Manager
 - [ ] https://jobs.ashbyhq.com/decagon/1a7adb8e-f652-4556-9540-651f5299a0cd | Decagon | Senior Solutions Engineer
@@ -602,7 +556,6 @@
 - [ ] https://jobs.ashbyhq.com/attio/d973504f-6cdd-4eaa-912d-b8e8dc8703d9 | Attio | Senior Platform Engineer 
 - [ ] https://jobs.ashbyhq.com/attio/010b8206-5968-4a03-8052-d9339762f766 | Attio | Solutions Engineer [Pre and Post-Sales] - SMB
 - [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer
-- [ ] https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f | Palantir | Forward Deployed Enablement Engineer - Customer Success
 - [ ] https://jobs.lever.co/palantir/8fcae765-de9a-4990-ba84-e65b524d683b | Palantir | Forward Deployed Infrastructure Engineer - US Government
 - [ ] https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065 | Palantir | Forward Deployed Reliability Engineer
 - [ ] https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9 | Palantir | Forward Deployed Software Engineer
@@ -624,7 +577,6 @@
 - [ ] https://n26.com/en-eu/careers/positions/7649873?gh_jid=7649873 | N26 | Senior Product Manager - Runtime Platform
 - [ ] https://careers.hellofresh.com/global/en/job/7696242?gh_jid=7696242 | HelloFresh | Senior Infrastructure Engineer, Intelligent Platforms 
 - [ ] https://www.scandit.com/careers/job-description/?gh_jid=7602050 | Scandit | Senior Manager, Demand Generation Automation and Marketing Operations
-- [ ] https://jobs.ashbyhq.com/DeepL/49c1f91a-f8ff-4b00-b19f-b40bbbdd05a6 | DeepL | Enterprise Account Executive | UKI
 - [ ] https://jobs.ashbyhq.com/cohere/fea8cc38-1a55-4f1c-a652-8c39c66138fc | Cohere | Forward Deployed Engineer, Infrastructure Specialist
 - [ ] https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9 | Cohere | Forward Deployed Engineer, Agentic Platform
 - [ ] https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d | Cohere | Solutions Architect - Public Sector
@@ -697,7 +649,6 @@
 - [ ] https://jobs.ashbyhq.com/cohere/f8e85a7c-1eb0-47f8-8140-1c4e7892f17d | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defence
 - [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5193512008 | Black Forest Labs | Member of Technical Staff - Post Training
 - [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5193508008 | Black Forest Labs | Member of Technical Staff - Pretraining
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7493307003?gh_jid=7493307003 | Celonis | Account Executive - Retail
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7681593003?gh_jid=7681593003 | Celonis | Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7635462003?gh_jid=7635462003 | Celonis | Applied AI Value Engineer
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/6313858003?gh_jid=6313858003 | Celonis | Head of Industry - Retail & CPG 
@@ -705,21 +656,12 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7635342003?gh_jid=7635342003 | Celonis | Lead Value Engineering - Consumer Packaged Good and Retail
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7635110003?gh_jid=7635110003 | Celonis | Senior Applied Value Engineer - Consumer Products and Retail
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7657903003?gh_jid=7657903003 | Celonis | Territory Partner Manager (Mumbai)
-- [ ] https://careers.hellofresh.com/global/en/job/7593660?gh_jid=7593660 | HelloFresh | Koordinator für Arbeitssicherheit und Notfallmanagement (all genders)
-- [ ] https://careers.hellofresh.com/global/en/job/7649239?gh_jid=7649239 | HelloFresh | Schichtleiter Maintenance (all genders)
 - [ ] https://careers.hellofresh.com/global/en/job/7768316?gh_jid=7768316 | HelloFresh | Teamlead Display and Video Marketing (parental leave cover) (all genders) 
-- [ ] https://careers.hellofresh.com/global/en/job/7703792?gh_jid=7703792 | HelloFresh | Teamleiter Instandhaltung – Schichtbetrieb (all genders)
-- [ ] https://sumup.com/careers/positions/8367883002?gh_jid=8367883002 | SumUp | Complaints and Compliance Specialist with Dutch (NL)
-- [ ] https://sumup.com/careers/positions/8340139002?gh_jid=8340139002 | SumUp | Customer Support Agent - DE
-- [ ] https://sumup.com/careers/positions/8525962002?gh_jid=8525962002 | SumUp | Customer Support Agent with Finnish and English
-- [ ] https://sumup.com/careers/positions/8066192002?gh_jid=8066192002 | SumUp | Independent Sales Agents (ISA) -Merchant Services across the  US
 - [ ] https://sumup.com/careers/positions/8468006002?gh_jid=8468006002 | SumUp | Senior AI Backend Engineer
 - [ ] https://sumup.com/careers/positions/8249610002?gh_jid=8249610002 | SumUp | Senior AI/ML Engineer
 - [ ] http://stability.ai/careers?gh_jid=4770256101 | Stability AI | Multimodal Generative AI Researcher
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983622004 | Hightouch | Account Executive, Mid-Market - Mountain West
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5823552004 | Hightouch | AI Operations, GTM
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant 
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5726252004 | Hightouch | Enterprise Account Executive -Mountain West
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5970143004 | Hightouch | Product Lead, Agentic Ads Platform
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5834919004 | Hightouch | Product Lead, Agentic Personalization
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
@@ -733,4 +675,64 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7784684 | Intercom | Engineering Manager, AI Models Infrastructure
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7383963 | Intercom | Staff Product Engineer, AI
 
-## Procesadas
+## Off-target (auto-filtered)
+
+<!-- These were auto-flagged as clearly off-target. Review before discarding. -->
+- [ ] https://www.linkedin.com/jobs/view/4265230371/ | Prima | Math, Physics &amp; Engineering Graduates
+- [ ] https://www.linkedin.com/jobs/view/4407112919/ | EyeSpy Recruitment - iGaming Specialists | Head of HR, Technology &amp; Operations
+- [ ] https://www.ashbyhq.com/careers | Ashby | Strategy & Operations, Customer Success
+- [ ] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST)
+- [ ] https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe
+- [ ] https://jobs.ashbyhq.com/deepgram/1278975c-e0d8-45be-82dd-8d0d1f2774e5 | Deepgram | Senior Pre-Sales Solutions Engineer - India
+- [ ] https://jobs.ashbyhq.com/deepgram/f8b9322f-67a4-448f-bd2c-e9a102c4a55d | Deepgram | EMEA Account Executive (German speaking)
+- [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7591182 | Intercom | Account Executive, Commercial - French Speaking 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7386163 | Intercom | Account Executive, MidMarket - German Speaking
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161980008 | Anthropic | Account Executive, Beneficial Deployments (French Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165651008 | Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161986008 | Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4948535008 | Anthropic | Account Executive, Mid Market - UKI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4978280008 | Anthropic | Startup Account Executive - UKI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041290008 | Anthropic | Strategic Account Executive, Investment Banking & Capital Markets
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking
+- [ ] https://jobs.ashbyhq.com/n8n/250fd347-60dd-4902-b0cd-27a7f3f31617 | n8n | Mid-Market Account Executive (German speaking - Remote Europe)
+- [ ] https://jobs.ashbyhq.com/n8n/ffafc55a-6fcc-4dfb-aef2-7979391d3ffb | n8n | Senior Customer Success Manager - Spanish Speaking (EMEA)
+- [ ] https://jobs.ashbyhq.com/n8n/0d3cda2a-b592-4733-a6a9-cd49f4ddc925 | n8n | Mid-Market Account Executive (Spanish or French Speaking - Remote Europe) 
+- [ ] https://jobs.ashbyhq.com/sierra/39c1ed90-786b-41c6-943e-7c2427f90043 | Sierra | Enterprise Account Executive, Europe (German speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/9f5b273f-1604-4b5b-bbbb-13cf0af35150 | Sierra | Enterprise Account Executive, Europe (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/fe103c28-bc7e-433e-ad82-90a1655cba32 | Sierra | Enterprise Account Executive, Europe (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/cohere/e09a69b2-55ee-4141-99f6-cc4d8e39347a | Cohere | Customer Success Manager (Montreal - French Speaking)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4652361005 | Glean | Enterprise Account Executive, UKI
+- [ ] https://jobs.ashbyhq.com/DeepL/b1dc9616-cf5b-4edc-9d08-2a15dbf6fb65 | DeepL | Enterprise Account Executive | UKI
+- [ ] https://jobs.ashbyhq.com/zapier/45b2c110-f8e0-497a-914c-72fddf447ed0 | Zapier | Automation Strategist (Customer Success)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6137574 | Contentful | Business Development Representative, Commercial- French speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/5853004 | Contentful | Business Development Representative, Enterprise - French speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/5853009 | Contentful | Business Development Representative, Enterprise- German speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6671440 | Contentful | Business Development Representative, Enterprise- Italian Speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6696223 | Contentful | Business Development Representative, Enterprise- Spanish speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/5852946 | Contentful | Business Development Representative, Mid Market UKI (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7177651 | Contentful | Mid Market Account Executive - UKI (f/m/d)
+- [ ] https://n26.com/en-eu/careers/positions/7682984?gh_jid=7682984 | N26 | Senior Legal Counsel Banking Law
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/6559242003?gh_jid=6559242003 | Celonis | Senior Applied AI Engineer (Pre-Sales) - Public Sector Transformation 
+- [ ] https://sumup.com/careers/positions/8092189002?gh_jid=8092189002 | SumUp |  Talent Acquisition Partner - Spanish  Speaking  (1 year FTC) 
+- [ ] https://jobs.ashbyhq.com/synthesia/81fbed84-4d11-491c-8659-6a96d5ad4e77 | Synthesia | Strategic Account Executive (German Speaking)
+- [ ] https://jobs.ashbyhq.com/synthesia/680317a4-b421-4bc5-9e21-45bcc4901231 | Synthesia | Strategic Customer Success Manager - German Speaking
+- [ ] https://jobs.ashbyhq.com/synthesia/b8d27ddc-dd45-452e-8d24-7e44c17d33c8 | Synthesia | Customer Success Manager - Spanish + Italian Speaking 
+- [ ] https://jobs.ashbyhq.com/claylabs/9b05b885-eb08-4ad0-82b1-4da33dcad4a2 | Clay Labs | French-Speaking ClayDR (SDR - French-Speaking)
+- [ ] https://jobs.lever.co/pigment/dc39fde7-ba3b-4f78-9697-f90e9c081f74 | Pigment | Business Development Representative (DACH) - German Speaking
+- [ ] https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd | Palantir | Forward Deployed Enablement Engineer - Customer Success
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165641008 | Anthropic | Account Executive, Beneficial Deployments (French Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161988008 | Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5165670008 | Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)
+- [ ] https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f | Palantir | Forward Deployed Enablement Engineer - Customer Success
+- [ ] https://jobs.ashbyhq.com/DeepL/49c1f91a-f8ff-4b00-b19f-b40bbbdd05a6 | DeepL | Enterprise Account Executive | UKI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7493307003?gh_jid=7493307003 | Celonis | Account Executive - Retail
+- [ ] https://careers.hellofresh.com/global/en/job/7593660?gh_jid=7593660 | HelloFresh | Koordinator für Arbeitssicherheit und Notfallmanagement (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7649239?gh_jid=7649239 | HelloFresh | Schichtleiter Maintenance (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7703792?gh_jid=7703792 | HelloFresh | Teamleiter Instandhaltung – Schichtbetrieb (all genders)
+- [ ] https://sumup.com/careers/positions/8367883002?gh_jid=8367883002 | SumUp | Complaints and Compliance Specialist with Dutch (NL)
+- [ ] https://sumup.com/careers/positions/8340139002?gh_jid=8340139002 | SumUp | Customer Support Agent - DE
+- [ ] https://sumup.com/careers/positions/8525962002?gh_jid=8525962002 | SumUp | Customer Support Agent with Finnish and English
+- [ ] https://sumup.com/careers/positions/8066192002?gh_jid=8066192002 | SumUp | Independent Sales Agents (ISA) -Merchant Services across the  US
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983622004 | Hightouch | Account Executive, Mid-Market - Mountain West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5726252004 | Hightouch | Enterprise Account Executive -Mountain West
