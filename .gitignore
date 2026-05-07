@@ -14,13 +14,6 @@ jds/*
 writing-samples/*
 !writing-samples/README.md
 
-# User config and customization (never auto-updated)
-# config/profile.yml
-# portals.yml
-# modes/_profile.md
-.update-dismissed
-.update-lock
-
 # Secrets (never commit — use .env.example as template)
 .env
 
@@ -39,3 +32,6 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+
+# Personal documents — should not be in version control
+Property/

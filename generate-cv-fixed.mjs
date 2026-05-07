@@ -58,6 +58,8 @@ const replacements = {
     '{{PORTFOLIO_URL}}': profile.candidate.portfolio_url || '',
     '{{PORTFOLIO_DISPLAY}}': profile.candidate.portfolio_url ? profile.candidate.portfolio_url.replace(/^https?:\/\//, '') : '',
     '{{LOCATION}}': profile.candidate.location,
+    '{{EXTRA_CONTACTS}}': '',
+    '{{PHOTO_HTML}}': '',
     '{{SECTION_SUMMARY}}': 'Professional Summary',
     '{{SUMMARY_TEXT}}': cvData['Profile Summary'] ? cvData['Profile Summary'].join(' ').replace(/^- /gm, '').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>').trim() : '',
     '{{SECTION_COMPETENCIES}}': 'Core Competencies',

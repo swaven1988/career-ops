@@ -152,6 +152,6 @@ Same ethical rules as `modes/pdf.md`:
 The generated `.tex` file uses only standard CTAN packages (no custom or bundled dependencies):
 
 - `latexsym`, `fullpage`, `titlesec`, `marvosym`, `color`, `verbatim`, `enumitem`
-- `hyperref`, `fancyhdr`, `babel`, `tabularx`, `fontawesome5`, `multicol`, `glyphtounicode`
+- `hyperref`, `fancyhdr`, `babel`, `tabularx`, `fontawesome`, `multicol`, `glyphtounicode`
 
 Upload the `.tex` file directly to Overleaf — compiles with no extra configuration.
