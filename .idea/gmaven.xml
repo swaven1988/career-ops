@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenSettings">
+    <option name="linkedExternalProjectsSettings">
+      <MavenProjectSettings>
+        <option name="distributionSettings">
+          <DistributionSettings>
+            <option name="type" value="BUNDLED" />
+            <option name="url" value="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.9.6/apache-maven-3.9.6-bin.zip" />
+            <path value="C:\Users\littl\.m2\wrapper\dists\apache-maven-3.9.6-bin\439sdfsg2nbdob9ciift5h5nse\apache-maven-3.9.6" />
+          </DistributionSettings>
+        </option>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="C:\Users\littl\IdeaProjects\career-ops" />
+          </set>
+        </option>
+      </MavenProjectSettings>
+    </option>
+  </component>
+</project>
