@@ -326,8 +326,36 @@
     font-size: 10.5px;
   }
 
+  /* === PHOTO (EU markets: DE, FR, NL, BE, AT, CH) === */
+  .header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .header-text {
+    flex: 1;
+    min-width: 0;
+  }
+
+  /* Render {{PHOTO_HTML}} as <img class="cv-photo" ...> or leave token empty for UK/Nordic markets */
+  .cv-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 4px;
+    object-fit: cover;
+    object-position: center top;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
   /* === PRINT === */
   @media print {
+    @page {
+      size: A4 portrait;
+    }
+
     body {
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
@@ -354,20 +382,33 @@
 
   <!-- HEADER -->
   <div class="header avoid-break">
-    <h1>{{NAME}}</h1>
-    <div class="header-gradient"></div>
-    <div class="contact-row">
-      <span>{{PHONE}}</span>
-      <span class="separator">|</span>
-      <span>{{EMAIL}}</span>
-      <span class="separator">|</span>
-      <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
-      <span class="separator">|</span>
-      <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
-      <span class="separator">|</span>
-      <span>{{LOCATION}}</span>
+    <div class="header-main">
+      <div class="header-text">
+        <h1>{{NAME}}</h1>
+        <div class="header-gradient"></div>
+        <div class="contact-row">
+          <span>{{PHONE}}</span>
+          <span class="separator">|</span>
+          <span>{{EMAIL}}</span>
+          <span class="separator">|</span>
+          <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
+          <span class="separator">|</span>
+          <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
+          <span class="separator">|</span>
+          <span>{{LOCATION}}</span>{{EXTRA_CONTACTS}}
+        </div>
+      </div>
+      {{PHOTO_HTML}}
     </div>
   </div>
+  <!--
+    EU market tokens:
+    {{EXTRA_CONTACTS}} — optional inline HTML for XING, ResearchGate, etc.
+      Example: <span class="separator">|</span><a href="https://xing.com/profile/...">XING</a>
+      Leave empty for UK/Nordic markets where extra profiles are uncommon.
+    {{PHOTO_HTML}} — optional <img class="cv-photo" src="..." alt="..."> for DE/FR/NL/BE/AT/CH.
+      Leave empty for UK, IE, Nordic markets (photos can trigger bias concerns).
+  -->
 
   <!-- PROFESSIONAL SUMMARY -->
   <div class="section avoid-break">

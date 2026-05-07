@@ -8,7 +8,7 @@ Export a tailored, ATS-optimized CV as a `.tex` file and compile it to PDF via `
 2. Read `config/profile.yml` for candidate identity and contact info
 3. Ask the user for the JD if not already in context (text or URL)
 4. Extract 15-20 keywords from the JD
-5. Detect JD language → CV language (EN default)
+5. Detect JD language → set `{{BABEL_LANG}}` (see table below) and translate section titles
 6. Detect role archetype → adapt framing
 7. Rewrite Professional Summary injecting JD keywords (same rules as `pdf` mode — NEVER invent skills)
 8. Select top 3-4 most relevant projects for the offer
@@ -27,6 +27,7 @@ The template at `templates/cv-template.tex` uses `{{PLACEHOLDER}}` syntax:
 
 | Placeholder | Source |
 |-------------|--------|
+| `{{BABEL_LANG}}` | JD language: `english` (EN), `ngerman` (DE), `french` (FR), `portuguese` (PT), `russian` (RU). Always set — never leave as `{{BABEL_LANG}}`. |
 | `{{NAME}}` | `profile.yml → candidate.full_name` |
 | `{{CONTACT_LINE}}` | Phone / City, State / Visa status — built from profile.yml |
 | `{{EMAIL_URL}}` | Raw email for `mailto:` URL — must not be LaTeX-escaped (from profile.yml) |
@@ -123,10 +124,19 @@ All text content MUST be escaped for LaTeX before insertion:
 ## ATS Rules (same as pdf mode)
 
 - Single-column layout (enforced by template)
-- Standard section headers: Education, Work Experience, Personal Projects, Technical Skills
+- Section headers in the JD's language (see examples below); validator accepts EN/DE/FR/PT/RU/JA names
 - UTF-8, machine-readable via `\pdfgentounicode=1`
 - Keywords distributed: first bullet of each role, skills section
 - No images, no graphics, no color in body text
+
+### Section name translations
+
+| Section | EN | DE | FR | PT |
+|---------|----|----|----|----|
+| Education | Education | Ausbildung | Formation | Educação |
+| Experience | Work Experience | Berufserfahrung | Expérience professionnelle | Experiência |
+| Projects | Personal Projects | Projekte | Projets | Projetos |
+| Skills | Technical Skills | Technische Kenntnisse | Compétences techniques | Habilidades |
 
 ## Keyword Injection Strategy
 

@@ -18,11 +18,42 @@ import { resolve, basename, dirname, join } from 'path';
 import { execFileSync } from 'child_process';
 import { existsSync, mkdirSync } from 'fs';
 
-const REQUIRED_SECTIONS = [
-  '\\\\section{Education}',
-  '\\\\section{Work Experience}',
-  '\\\\section{Personal Projects}',
-  '\\\\section{Technical Skills}',
+// Each group represents one required section; any one pattern in the group is sufficient.
+// Patterns cover: English, German (DE), French (FR), Portuguese (PT), Russian (RU), Japanese (JA).
+const REQUIRED_SECTION_GROUPS = [
+  {
+    label: 'Education',
+    patterns: [
+      /\\section\{Education\}/, /\\section\{Ausbildung\}/, /\\section\{Bildung\}/,
+      /\\section\{Formation\}/, /\\section\{Educa[çc]ão\}/, /\\section\{Обр/,
+      /\\section\{学歴\}/,
+    ],
+  },
+  {
+    label: 'Experience',
+    patterns: [
+      /\\section\{Work Experience\}/, /\\section\{Experience\}/,
+      /\\section\{Berufserfahrung\}/, /\\section\{Erfahrung\}/,
+      /\\section\{Exp[ée]rience/, /\\section\{Experi[eê]ncia\}/, /\\section\{Опыт/, /\\section\{職務/,
+    ],
+  },
+  {
+    label: 'Projects',
+    patterns: [
+      /\\section\{Personal Projects\}/, /\\section\{Projects\}/,
+      /\\section\{Projekte\}/, /\\section\{Projets\}/,
+      /\\section\{Projetos\}/, /\\section\{Проекты\}/, /\\section\{プロジェクト\}/,
+    ],
+  },
+  {
+    label: 'Skills',
+    patterns: [
+      /\\section\{Technical Skills\}/, /\\section\{Skills\}/,
+      /\\section\{Technische Kenntnisse\}/, /\\section\{Kenntnisse\}/,
+      /\\section\{Comp[ée]tences/, /\\section\{Habilidades\}/,
+      /\\section\{Навыки\}/, /\\section\{スキル\}/,
+    ],
+  },
 ];
 
 const REQUIRED_COMMANDS = [
@@ -50,10 +81,11 @@ async function main() {
 
   const issues = [];
 
-  // Check required sections
-  for (const pattern of REQUIRED_SECTIONS) {
-    if (!new RegExp(pattern).test(content)) {
-      issues.push(`Missing section matching: ${pattern}`);
+  // Check required sections (multilingual: any one pattern per group is sufficient)
+  for (const group of REQUIRED_SECTION_GROUPS) {
+    const found = group.patterns.some(pattern => pattern.test(content));
+    if (!found) {
+      issues.push(`Missing ${group.label} section (checked EN/DE/FR/PT/RU/JA variants)`);
     }
   }
 
