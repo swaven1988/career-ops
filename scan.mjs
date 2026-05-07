@@ -202,14 +202,11 @@ function appendToPipeline(offers) {
     ).join('\n') + '\n\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
-    // Find the end of existing Pendientes content (next ## or end)
-    const afterMarker = idx + marker.length;
-    const nextSection = text.indexOf('\n## ', afterMarker);
-    const insertAt = nextSection === -1 ? text.length : nextSection;
-
-    const block = '\n' + offers.map(o =>
+    // Insert new offers right after the "## Pendientes" heading
+    const insertAt = idx + marker.length;
+    const block = '\n\n' + offers.map(o =>
       `- [ ] ${o.url} | ${o.company} | ${o.title}`
-    ).join('\n') + '\n';
+    ).join('\n');
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   }
 
@@ -253,7 +250,10 @@ async function main() {
   const args = process.argv.slice(2);
   const dryRun = args.includes('--dry-run');
   const companyFlag = args.indexOf('--company');
-  const filterCompany = companyFlag !== -1 ? args[companyFlag + 1]?.toLowerCase() : null;
+  const filterCompanies = companyFlag !== -1 ? args[companyFlag + 1]?.toLowerCase().split(',') : null;
+  
+  const locationFlag = args.indexOf('--location');
+  const filterLocations = locationFlag !== -1 ? args[locationFlag + 1]?.toLowerCase().split(',') : null;
 
   // 1. Read portals.yml
   if (!existsSync(PORTALS_PATH)) {
@@ -268,7 +268,7 @@ async function main() {
   // 2. Filter to enabled companies with detectable APIs
   const targets = companies
     .filter(c => c.enabled !== false)
-    .filter(c => !filterCompany || c.name.toLowerCase().includes(filterCompany))
+    .filter(c => !filterCompanies || filterCompanies.some(k => c.name.toLowerCase().includes(k)))
     .map(c => ({ ...c, _api: detectApi(c) }))
     .filter(c => c._api !== null);
 
@@ -310,6 +310,13 @@ async function main() {
           totalDupes++;
           continue;
         }
+        // Location filter
+        if (filterLocations && filterLocations.length > 0) {
+          const loc = (job.location || '').toLowerCase();
+          const matchesLocation = filterLocations.some(k => loc.includes(k));
+          if (!matchesLocation) continue;
+        }
+
         // Mark as seen to avoid intra-scan dupes
         seenUrls.add(job.url);
         seenCompanyRoles.add(key);

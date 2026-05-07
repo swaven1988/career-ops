@@ -14,7 +14,7 @@
  * Requires:
  *   GEMINI_API_KEY in .env (or environment variable)
  *
- * Free-tier model: gemini-2.0-flash (generous quota, no billing required)
+ * Free-tier model: gemini-2.0-flash-lite (generous quota, no billing required)
  */
 
 import { readFileSync, existsSync, writeFileSync, mkdirSync } from 'fs';
@@ -65,11 +65,11 @@ if (args.length === 0 || args[0] === '--help' || args[0] === '-h') {
   USAGE
     node gemini-eval.mjs "<JD text>"
     node gemini-eval.mjs --file ./jds/my-job.txt
-    node gemini-eval.mjs --model gemini-2.0-flash "<JD text>"
+    node gemini-eval.mjs --model gemini-2.0-flash-lite "<JD text>"
 
   OPTIONS
     --file <path>    Read JD from a file instead of inline text
-    --model <name>   Gemini model to use (default: gemini-2.0-flash)
+    --model <name>   Gemini model to use (default: gemini-2.0-flash-lite)
     --no-save        Do not save report to reports/ directory
     --help           Show this help
 
@@ -87,7 +87,7 @@ if (args.length === 0 || args[0] === '--help' || args[0] === '-h') {
 
 // Parse flags
 let jdText = '';
-let modelName = process.env.GEMINI_MODEL || 'gemini-2.0-flash';
+let modelName = process.env.GEMINI_MODEL || 'gemini-2.0-flash-lite';
 let saveReport = true;
 
 for (let i = 0; i < args.length; i++) {
@@ -224,20 +224,39 @@ const model = genAI.getGenerativeModel({
 });
 
 let evaluationText;
-try {
-  const result = await model.generateContent([
-    { text: systemPrompt },
-    { text: `\n\nJOB DESCRIPTION TO EVALUATE:\n\n${jdText}` },
-  ]);
-  evaluationText = result.response.text();
-} catch (err) {
-  console.error('❌  Gemini API error:', err.message);
-  if (err.message?.includes('API_KEY')) {
-    console.error('    Check your GEMINI_API_KEY in .env');
-  } else if (err.message?.includes('quota') || err.message?.includes('rate')) {
-    console.error('    You may have hit the free-tier rate limit. Wait 60s and retry.');
+let maxRetries = 3;
+let attempt = 0;
+
+while (attempt <= maxRetries) {
+  try {
+    // Token optimization: Truncate very long JDs and CVs to stay under free tier limits
+    const optimizedJD = jdText.slice(0, 5000);
+    const optimizedCV = cvContent.slice(0, 8000);
+
+    const result = await model.generateContent([
+      { text: systemPrompt.replace(cvContent, optimizedCV) },
+      { text: `\n\nJOB DESCRIPTION TO EVALUATE (Truncated for speed):\n\n${optimizedJD}` },
+    ]);
+    evaluationText = result.response.text();
+    break; // Success!
+  } catch (err) {
+    const isRateLimit = err.message?.includes('quota') || err.message?.includes('rate') || err.message?.includes('429');
+    
+    if (isRateLimit && attempt < maxRetries) {
+      attempt++;
+      console.warn(`\n⚠️  Rate limit hit (429). Waiting 75s to retry (Attempt ${attempt}/${maxRetries})...`);
+      await new Promise(resolve => setTimeout(resolve, 75000));
+      continue;
+    }
+
+    console.error('❌  Gemini API error:', err.message);
+    if (err.message?.includes('API_KEY')) {
+      console.error('    Check your GEMINI_API_KEY in .env');
+    } else if (isRateLimit) {
+      console.error('    You have exceeded the free-tier rate limit. Please wait a few minutes before trying again.');
+    }
+    process.exit(1);
   }
-  process.exit(1);
 }
 
 // ---------------------------------------------------------------------------
