@@ -2,6 +2,104 @@
 
 ## Pendientes
 
+- [ ] https://www.linkedin.com/jobs/view/4265230371/ | Prima | Math, Physics &amp; Engineering Graduates
+- [ ] https://www.linkedin.com/jobs/view/4406843754/ | Max Accelerate Technology Group | Head of Lead Generation (Kompetenza &amp; Datamax AI)
+- [ ] https://www.linkedin.com/jobs/view/4372794877/ | ChainGPT | Chief Executive Officer (CEO) - AIVM Blockchain - Middle East
+- [ ] https://www.linkedin.com/jobs/view/4409186498/ | ChainGPT | Head of Product - AIVM (Agentic AI &amp; Blockchain Platform) - Middle East
+- [ ] https://www.linkedin.com/jobs/view/4296081635/ | Revolut | Head of Product (Fraud)
+- [ ] https://www.linkedin.com/jobs/view/4407112919/ | EyeSpy Recruitment - iGaming Specialists | Head of HR, Technology &amp; Operations
+- [ ] https://www.linkedin.com/jobs/view/4402454959/ | AI Acquisition | Head of Engineering
+- [ ] https://www.linkedin.com/jobs/view/4409805727/ | Paradox EN | Head of Media / Creative Director - Performance Ads
+- [ ] https://www.linkedin.com/jobs/view/4345451099/ | Paradox EN | Head Of Growth - EdTech (Full remote - French fluent 🇫🇷)
+- [ ] https://www.linkedin.com/jobs/view/4345491045/ | Paradox EN | Head Of Growth - EdTech (Full remote - French fluent 🇫🇷)
+- [ ] https://www.linkedin.com/jobs/view/4345181296/ | Unknown | Head Of Growth - EdTech (Full remote - French fluent 🇫🇷)
+
+- [ ] https://weworkremotely.com/remote-jobs/developer-relations-devrel-jobs` | QTC Management, Inc. | VP, Product Engineering – Developer Experience
+- [ ] https://weworkremotely.com/remote-jobs/developer-relations-devrel-jobs` | Akka (formerly Lightbend) | Forward Deployed Engineer – Technical Evangelist
+- [ ] https://weworkremotely.com/remote-jobs/developer-relations-devrel-jobs` | NVIDIA | Senior Developer Relations Manager – Telecommunications
+
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyhAz5FjZ6eDjYHLWg7jagUEQwctexTbD15y5SRmJ-b7owXRvJJ8rvAirrN0s8dwDnLPqQCaH5MZt1mzvoyqcPHjp874ltfR1Hsr-g_HyN0fH-vjAMRfRRE6DQTvVG8yhBZi1cje-kIeRbQgnKwXQ3eQqTaBmYGQ | FlexJobs | Senior Forward Deployed Artificial Intelligence Engineer
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmOEryJjssvxbvGIKueXTeOrKmmb_66DL-tDnYnfN_py6PWjL1IRqyouW0s_ounyPvavPiojUt6wQLc_Taj2RtCsrp66YAeGbxjmW-4SECX_5kzhrzpj-FxFl1ooSoW1QvYavvMvWjFbSKvMIAyL960s9z4RP_Jc8xvlp3-q6cnbBCoPyyDtnXwiP0xHPixsfQbTpNgd9P7i-VJlHpGAI6KtPVJGaNX10jA5Ot3vMCFlZZNNA= | JobLeads.com | Customer-Facing AI Deployment Engineer (Remote)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiS-Zw0DfqyGLVJ-ycLTxBDypVESkLd5WEglUwvUNDtrFZYo8wXmQ4ELNo0MOpe85B_80yj0poZrVkWKaQjb0WchWVChhIzgmOMGtF0q191jRYeLiZUJbrDvb4WCTSyAKDvAfAFEjMtAunfCVFFcdSTLyjxkazpjXyrUs= | Indeed | AI Solution Architect - Financial Advisory (Nationwide, Remote)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiS-Zw0DfqyGLVJ-ycLTxBDypVESkLd5WEglUwvUNDtrFZYo8wXmQ4ELNo0MOpe85B_80yj0poZrVkWKaQjb0WchWVChhIzgmOMGtF0q191jRYeLiZUJbrDvb4WCTSyAKDvAfAFEjMtAunfCVFFcdSTLyjxkazpjXyrUs= | Indeed | MS Dynamics 365 Supply Chain Solution Architect (AI Driven)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL3pUaZjKstKBofdYSfVuGAlg2TvgVkek9kQVbxI8p9qVRNoRWd4RR50vrbK4NQOAQQUVfCSpcq8Gv0j93yuw8neSE4hgC-aK9zEfTbDDachogwPgJZiNvXqL8lu8bRMWB2lt2sRhsC25M9FZI08jAsnW6ZxHhAWljRxXawrw= | OpenAI | AI Success Engineer - US Remote
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY4hoA1qnA3s6unuiYufCC0Zm-xt5pfPh5UnwgT6SuNu8iSl1hJEg4b-4HHXNIA0QQOfz1prWfb6xn8iRrauJ-TVx5-6DOL8PYC-ikxGxvJSwiMMuS_2LjICRISJsx8G8a3apCg13JkIm_206nbrdFuRGRLYh1Q== | Remote.co | Senior Solution Engineer, Majors Acquisition
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY4hoA1qnA3s6unuiYufCC0Zm-xt5pfPh5UnwgT6SuNu8iSl1hJEg4b-4HHXNIA0QQOfz1prWfb6xn8iRrauJ-TVx5-6DOL8PYC-ikxGxvJSwiMMuS_2LjICRISJsx8G8a3apCg13JkIm_206nbrdFuRGRLYh1Q== | Remote.co | Custom Solutions Engineer
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY4hoA1qnA3s6unuiYufCC0Zm-xt5pfPh5UnwgT6SuNu8iSl1hJEg4b-4HHXNIA0QQOfz1prWfb6xn8iRrauJ-TVx5-6DOL8PYC-ikxGxvJSwiMMuS_2LjICRISJsx8G8a3apCg13JkIm_206nbrdFuRGRLYh1Q== | Remote.co | Senior AI Controls Solutions Engineer – Electrical Systems
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGJ1cWhH5u6Xdf6oUhm-BTLYff5SM1nWubMIv5tDhQ9Uxmvm-EcRIw_fwfQFYycq4zgH-c-BZHVB_-uto6QR-KFLaXgSodYO3mFSsqIC-BaOUUMu-Z0-nU94eMeyGdwM74Go6vWV_YzJ_i2GRI5JQjxK2NEVFqGcodI762Oosw_V671ad_jQ== | ZipRecruiter | AI Solutions Architect 2026 - US (Remote)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGJ1cWhH5u6Xdf6oUhm-BTLYff5SM1nWubMIv5tDhQ9Uxmvm-EcRIw_fwfQFYycq4zgH-c-BZHVB_-uto6QR-KFLaXgSodYO3mFSsqIC-BaOUUMu-Z0-nU94eMeyGdwM74Go6vWV_YzJ_i2GRI5JQjxK2NEVFqGcodI762Oosw_V671ad_jQ== | ZipRecruiter | Amazon Connect CX Solutions Architect - Remote
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxa8Jee4Cy45tTcgH-VfAvWxU6OK49utKrcO0BXg_LTVCjg1n3FqJQb55nSasTuziV-3GrMIAqnfBdVgwsopQLGNyfC1NydS_xWSMWIpdWbYqeVQYLpPzNm_5Iwx9Q5yTDP8wjf8wE1KhPCftQAWyWEAQf9jIuwGnig-DW7tObSZsSQjEKf3urLHqkif3jFlwnGDjd4bzVBByQzq5bh3N-mmLFlA== | Remote Rocketship | Forward Deployed Engineer - AI Agent at Cresta
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6zGOOXQRgtXNdsBq9d7LjBWLHW0ka3c9pDVjygSA8_cy5dDEnoWoUVnsn7xNWvDOz3ZH0OKtvmvDderUiock9t6IbPmL01jBHITkpcw8B4XAvnnDrMuax3Qi7ZX32l4RFmliUKpVj-9rW8upOx2ZrIRQn-HS8i5nBZGi-a4G8 | Indeed | Contact Center Solution Architect (Temp-to-hire)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6zGOOXQRgtXNdsBq9d7LjBWLHW0ka3c9pDVjygSA8_cy5dDEnoWoUVnsn7xNWvDOz3ZH0OKtvmvDderUiock9t6IbPmL01jBHITkpcw8B4XAvnnDrMuax3Qi7ZX32l4RFmliUKpVj-9rW8upOx2ZrIRQn-HS8i5nBZGi-a4G8 | Indeed | Solution Architect (CRM, Contact Center)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6zGOOXQRgtXNdsBq9d7LjBWLHW0ka3c9pDVjygSA8_cy5dDEnoWoUVnsn7xNWvDOz3ZH0OKtvmvDderUiock9t6IbPmL01jBHITkpcw8B4XAvnnDrMuax3Qi7ZX32l4RFmliUKpVj-9rW8upOx2ZrIRQn-HS8i5nBZGi-a4G8 | Indeed | Contact Center Solutions Architect
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6zGOOXQRgtXNdsBq9d7LjBWLHW0ka3c9pDVjygSA8_cy5dDEnoWoUVnsn7xNWvDOz3ZH0OKtvmvDderUiock9t6IbPmL01jBHITkpcw8B4XAvnnDrMuax3Qi7ZX32l4RFmliUKpVj-9rW8upOx2ZrIRQn-HS8i5nBZGi-a4G8 | Indeed | Principal Engineer — AWS AI & Contact Center Solutions
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQgh8JsjJf2AA6Hysc3KVJI0E8bUCTxcmTw35Z6KEbZZxaBnfPRbGPON6ZCZEgbPpn7d4s8HVMuLZfRmZG3I-mqqfyX_s7T_VWQWeqIXRSbw7uEJG15QCDQsrIgfJ02nAMMxu0g1HxtQX8YeKxPSZU6_9gpg-LxKtn5R1-TAsrSD7a48ytks-fYgCVd9HYpAUOlH4ifuA5XFUNyCgvKIGkO7a1ebh_c7UkvA== | Zoom | Contact Center Consulting Solutions Engineer - Remote
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMPeu8_kKt8D5V20LM7-a0N7MDFuhxkqS7eqRiJ3Get-V2NJ5Y1SjbzdFOrissslR4TmHVm7w1ZPa4oqJp2pcey5Y9qOys0MPlqQXPfki0HZMkn1aHoWYrxBmeoC0_vmuFpvdbjK3xTnJYAIZ0Mownv0qROo6jPBRih_O_h4dyAH3CFw== | AI Chopping Block | AI Solutions Architect
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpJPBxoBA-WsHC41033enC9nOIk_F2Lid8JxdjKdhfR7x920cb7C5qjo9e7ChQKOZvMgSIVaz3WLpgeFEYuj0tmW3O_jyhmQ3q2n5hjniZHlZ3WiD-yWSAlHc2REt5lSEGMXOdUdknI5hLpC-_s3HnbsjJec-f-zOXFZx3STaxSpCCp8PQQ7upjo9fa9mUAZZkymZWPw== | Remotetide | [Remote] Principal PS Consultant, AI Solutions Architect
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQVsCijX2qbYbftEUKf0dPcICDR4_d7zEFWEVCiqsJVfBPn65GBN2U6YXm4D46KhPMvOU8QiSYYdtOA_M1S4FhfThSpWYA7krPFapD5eQC0Kx9iSBNsn4sae9pYN7QVdF6ibS1zRyyy-8yxvBknTlHhkWDTK37bBVS_w== | Indeed | Senior Forward Deployed AI Engineer (Remote Eligible)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2PMu1fEfKxAqLCRUQ51g1K2wCwE4wDN-D_tkp1fph8STUzRMowxeny6Oq-BoEJo7OhI_SQTps3Hvy_qnbubRx_kfKkLwLdPjZdM99vH3b-IV6MvdJwjP5tqUDl8wjuhB-oIOsFZlRvtO0TZBiITMka3Y= | Greenhouse | Senior Forward Deployed Engineer (AI Agent) at Cresta
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk3A8Z60AX2wn7Bz2c9JhnTajbRu-ueHD7gevOdkjHNYS9pHTBILqjiL199LFBp5jvxbXjbgFt9u8fi4PT2HCg3PRV4cDaXAhHb9m69VXX0p1HKEhS-ICsHnc4zxteUJvxQp4O78fNMSchod1HRGgaVa3QCAhJVCnLI_VRyrzIt7RvYCoHYbINaTsu7wyXEzTvy5G_xg== | SAIC Careers | Principal Engineer — AWS AI & Contact Center Solutions
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAebk0H5oVs17wGF7n6Vp8Ko-CSR5L06CG5fDGoYBEyl_M1KrC02cE6gHyPeANFtyreeb26vmm_rdoLmY8OTBfH-8CrDE7j-l6norDgofNNNtbC9UXcxaCsFXpu4gyEWb_lIw0ntGoDKpYb7FtI0oZXT4RO2QO__jh-HqbRYFwvcanUQ0xC8dY | Indeed | AI Solutions Architect
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAebk0H5oVs17wGF7n6Vp8Ko-CSR5L06CG5fDGoYBEyl_M1KrC02cE6gHyPeANFtyreeb26vmm_rdoLmY8OTBfH-8CrDE7j-l6norDgofNNNtbC9UXcxaCsFXpu4gyEWb_lIw0ntGoDKpYb7FtI0oZXT4RO2QO__jh-HqbRYFwvcanUQ0xC8dY | Indeed | AI Architect - US (Remote)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrDNXMmFApNCXUVc5vnsU-TAna4z5tPCmtS6S3sG4bnWpzMwEXRJG9v7wBEnJCfZFWc2PEl--yyMyOGeO9SeR10aEXJm6dK_PiDQejSiHmtNE9SclvXPNcltmTg4FdfjvIeg== | Greenhouse | Senior Solutions Architect at Cresta
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrDNXMmFApNCXUVc5vnsU-TAna4z5tPCmtS6S3sG4bnWpzMwEXRJG9v7wBEnJCfZFWc2PEl--yyMyOGeO9SeR10aEXJm6dK_PiDQejSiHmtNE9SclvXPNcltmTg4FdfjvIeg== | Greenhouse | Senior Forward Deployed Engineer (AI Agent) at Cresta
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH-CfwjqN4Fwh99nqa70QrxwZ2J32A90XPTekwyGLkOGuWH-YCjKVMgV3AHC2U280B7jXye1L9542kpFvKX4w7kE4GlwOkSeY__P_SUvxk9M1USY7Mw4VmIdxY8HwHiYVYqDp9oCavE00AhQlrmRkNtitrzieDIL-fgEwnYdoHEaqHYUwXibF-JdFykufA9SXnIrdeg-o5 | Humana Careers | Senior Cloud Solutions Engineer - Contact Center
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNf86Vx1GXzM-91OH6Vnr4FchHzIcq-xRTcdiBy6ij9TylFYxRZXYnRG0NWjq7hH-gsxiea5exOkze3qiziWIEFFD9UfuUnQbBt4ybFs16d9_S3pqVHK4_4ECYMyVh6dN6csGT5TJq7F1Jf1-wBtFsGMWQbBPXgaIFNK__1_ZatHVBrFaW-M5uYVhuefqp1VZpyYpmbcdBL4HqwHzqSU5O09VxxiVhjJJAYcx2qSI= | MyWorkdayJobs.com | Forward Deployed Enterprise Architect
+
+- [ ] https://www.openai.com/careers/ai-deployment-engineer | OpenAI | AI Deployment Engineer
+- [ ] https://crescendo.ai/careers | Crescendo.ai | AI Deployment Engineer
+- [ ] https://jobs.whitecircle.ai/ | White Circle | AI Engineer (Audio)
+- [ ] https://appning.com/job/ai-engineer-speech-nlp-systems | Appning | AI Engineer (Speech & NLP Systems)
+- [ ] https://careers.boozallen.com/jobs/job-detail/R0156943/ai-integration-engineer | Booz Allen Hamilton | AI Integration Engineer
+- [ ] https://www.bebee.com/job/20260427-4a0b25e104f654b9d0335e95642d250d | VoxyHealth | Voice AI Engineer
+- [ ] https://www.gem.com/job/bolna-ai-integration-engineer-san-francisco-ca-1959885834 | Bolna AI | Integration Engineer
+- [ ] https://www.ziprecruiter.com/jobs/hippocratic-ai-a8b9f71b/forward-deployment-engineer-sioux-falls-sd-4202fb5a | Hippocratic AI | Forward Deployment Engineer (Sioux Falls, SD)
+- [ ] https://www.ycombinator.com/companies/retell-ai/jobs/C5Xn2Nn-integration-engineer | Retell AI | Integration Engineer
+- [ ] https://www.welcometothejungle.com/en/companies/speechify/jobs/forward-deployment-engineer_san-francisco | Speechify | Forward Deployment Engineer
+- [ ] https://thehub.io/jobs/6620573934f82604ce32b70f/ai-engineer-speech-nlp | Interhuman AI | AI Engineer - Speech & NLP
+
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6_YjthnuKklKsee0G7BnS3wCo-884OI8kaZCVizYYNbWC0a6NJhDH3egoxA7X5HCZIXdHh0LxvuDJ3aD371_f8F3zaNup9ue2k3dcoY5YFJ2Zz8_uTm1O0iNWOYuqShAvGekbDW-cgwWRYTCBStOzCVZiqxCK | GC AI | GTM Engineer
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFllccqEmix7SE4S7eGeZgil5A7bok_wEZvxP_tANNQH4uMi4f32Lhjz5tBcWr6HC_56LbPu3CJMJLjxjQ5VlBsmmqlMauUel_3Y3miS9ACPqTGR8bHdXVNlJ_q7H_pDf4v2_g= | Mazorda | GTM Engineer
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsBbKGAd4aeAzYTERSP9t_-C_4BBL8W9jQh9pHYS6LK0pPpxVkKD9YuRoHtjnbKZ_M7pPoKEqYLWJo6DcbicW7YQyaYTTohvEUKDzJsCIwtT0VIYVi9c9RSuE4KS3QENOH | brand.ai | GTM Engineer
+- [ ] https://automindz-solutions.com/careers/gtm-engineer | Automindz | AI/GTM Engineer
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlA-netK3vttvUw2AFzgUwpETj2RXbap2a_7aBztJyZyJ30KrVTS7qqGcvcE4b_3YzslNmmxfxuFjJOz51coaF0plEuXYKYmTyW9yDijrg4D_09_yS8GHWuwvQ4o6UvX6yZEfNTrnJF4EZ6eQSHVICR46-9NH9UEwcj3VpuuG1aKrt | Automindz | Clay & Automation Engineer
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFUlGbg_K-qEhPmFlscXuToqZs5dm63EbyMK1NP7ayX3GQ04jV3J-3_-LoPPpdlYdYJ6BySWnKQz1MlkYLUY__5l0UDA2FLsXRWR3aBtnVtGu4dIEQpziNdq5di5G_RfYmIizE_-HkGEjqqRJn9Ve2_w556pxPhCOALjDWAQf3JaA_p3Jch9hP1RvN86H | Fronted (Vouch Careers) | GTM Engineer
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkdbzX6VLw1887iP6xCnH_XlznAsROYjAkopUCGF6o7Z1tGxlhzi457wFp_JvhFTo-Qj6zXC3H1R2qCusD4xoWIMqGPKvfE-z86NzT38WcDAoBZJt3wjTJwBMs5WNQEhTg7N9bn4HBKyY8Jg-kW4p5HjUFNfDDzWPgAvIA_AnPAAU= | Personio | GTM Engineer (RevOps) (f/m/x)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPP2ewE8me0Fl6Zf4ftuVqkMqFtvZK5TOStX8YCaugxmFijLdDzJ9VCEY5XdytP6Zz2ShtsDtxOzKzxa1D4Qf0gC6B1wGccXmvdtJIQIliiRM5XJX3wdlgtz1vrXfwVV9L4sXk-8J5gyQkhEkekKPUJYg2BI2fzpUjuLoaKxtl3dhsV3E3_n_6gLirG7feaAk5aTxJw== | Confidential Client (via ZipRecruiter) | GTM Engineer — AI Search / Growth Automation
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrZPPqPryRe7UOtVu8erN6SbxuEJH6ty6JVzEw8Z7jIQVhHuOub9V8kaN-sW9vua4IUtWE2UyDQbiNtDsEV2VQTK1RQ1YJxIQWqCu2HX4gI8uFxMAtt5dYsZMFsCj5j13divuE19M7kjY4aKWDMg== | Primary Venture Partners | GTM Engineer
+
+- [ ] https://n8n.io/jobs` | n8n | Senior Support Engineer
+- [ ] https://n8n.io/jobs` | n8n | Senior Solutions Engineer
+- [ ] https://n8n.io/jobs` | n8n | Senior Customer Success Manager
+- [ ] https://cordatusresourcegroup.careers-page.com/` | Cordatus Resource Group | Senior Automation Engineer - Remote
+- [ ] https://www.ashbyhq.com/careers` | Ashby | Strategy & Operations, Customer Success
+- [ ] https://www.ashbyhq.com/careers` | Ashby | GTM Engineering and Systems Manager
+- [ ] https://www.ashbyhq.com/careers` | Ashby | Manager, GTM Systems & Tools
+
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8437665002` | Workato | Forward Deployed Engineer
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/` | NICE | Forward Deployed Engineer
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/` | NICE | AI Solution Strategist
+- [ ] https://boards.greenhouse.io/embed/fanduel/jobs/7793667` | FanDuel | Principal AI Architect
+- [ ] https://boards.greenhouse.io/neptuneai/jobs/4493647005` | neptune.ai | Principal Solutions Architect
+- [ ] https://boards.greenhouse.io/snorkelai/jobs/4155557101` | Snorkel AI | Forward Deployed Researcher - Data as a Service
+
+- [ ] https://jobs.lever.co/dynatrace/49962a90-34a8-444a-a035-7ffc9a8ed2c5 | Dynatrace | Senior AI Product Manager
+- [ ] https://www.spendflo.com/careers/senior-ai-product-manager-remote | Spendflo | Senior AI Product Manager - Remote Job
+- [ ] https://smartsheet.com/careers/senior-product-manager-applied-ai-remote-eligible/ | Smartsheet | Senior Product Manager - Applied AI (Remote Eligible)
+
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu9jNry4bv--4P3mkdjOmNEJqV0N9jLcj4ZZ5wDbfYFUpuSUh96FH6Iyz380DA_yKcxKWYfCXMckci8yD8p4iiz_2YcehfBBTdGpVw7mHt5pj9Lt34Rnc10HflQpiIj8H4jlytJc_G-5u9qMy_vdUWG3HZGvx0wX1OydXZnZ60KxBNmOqKL1HSkxQM7EezoNGltPNbFCEZ | Cotiviti | Artificial Intelligence AI Product Manager in Remote
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH77dD9k_adAAq8WDZXmZIOmzeX1JL1eIV0rwnY9Nyhc6L-GBZAxPuv7oK4WBZVqHKtnFuDms36pccnlIPBXdXNTmuewz4t5UO3pSF98NffTMcgiiqO9n5b81dAStrUlQ5cEJ_FvNF9cNRPMPRiw19oXbfyGXf6iq225521duSG | RKube Inc | AI Product Manager - Remote
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKqxhIadGiyTlnY_bcxuS0rp_1IjXoipNAF3-RNbM1QDggsLDC6owVarO54pFbYVjZL7lA77rb4KlC6cowj69AnUgP8AnFBVoif_fYhmB3iH2oxSN3ATzOO2DFxWq3UTvh39OK3Z0aY3v2bsoJELo5pnQG9t3iaCevgTMot031aIeJyaJPH9TEGmzoKXIKyGsPVbYbSjZhKQWKQ0vyp0-ffp8N | Schellman | Senior AI Product Manager (Remote - Nationwide)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVK-dVUSIwcQromAOOVYdnJ5AFGzHnlZVDOVBRgSqukjIht1a9RIJqk5K1c3AOC5NcsV5gbe6rX1Gf650eHst6gfQZZdb40C0n5AoQhzqRiB-bjrJxpYAzqgRrs0V-QaCmNe5sAsT7MTAh | ArcSite | Senior Product Manager (AI & Workflow Automation) Remote
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmFIe2CKvQMHUwuGidWxnG_JqCxOF0itX3cR9D296-uPaiRntMDMZWPRFtZhb4Fey-Gpne4zAyfYFVc1niFi5JedGzNiR8_5Bu4fogPxOMMYrtmUgtVoimTbLutwgG89QhtokDwqvIhhmWB3ND5QeN4JsWxnjCulE16iKSP2yUwn6ty7cp_rT | Hitachi Vantara LLC | Senior Product Manager, AI Platforms (Remote - US/Canada)
+- [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlfdW16SCrgZuSvJtMmyxZ6X2li-ny0eFLowBsZzxRtn6XtedM-gEyjBkPvpfYMH955YVkHVJO3Y3R8MfHjdTg5vdRRkeupZIM29N2cc7QaJBsJnZqwLN4IaBcAsXewoDkCygoA2T1YckjvfF7F0P8MOf28JUhY1cjOabOcfoVTT93S1bOWoqJbnDWLOIAu9P3ggZqIbBl-SEOzZFbV8KhRMgBJDsm7sWzKQGTNfD-bfScx84RwZFznW0= | Hexion | Senior Product Manager, AI - Supply Chain & Procurement - US Remote
+
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4132230008 | Black Forest Labs | Member of Technical Staff - ML Infrastructure Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7898549?gh_jid=7898549 | HelloFresh | Anlagentechniker (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7869765?gh_jid=7869765 | HelloFresh | Automation Engineer (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7897141?gh_jid=7897141 | HelloFresh | Maintenance Technician (all genders)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7610416003?gh_jid=7610416003 | Celonis | Field CTO - AI & Enterprise Modernization
+
 - [x] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLpHIQAEjJaesd1YPmL9GWwEE-NGvPOxbLhguwTnNbPB5DJJ9s_1jzPCxZImiPbG5u86HUkTaDEysXWu4feUuasNU4wMOOAfmuXqJ0psUUJSuaDXbl0f4I4Okyx8tsloi_79-JQ49Z9xxFehMF2_OL7KmfJe95ByUMskHT7MV | Reliable Software Resources | AI Engineer (LLMs, Generative AI, Vertex AI)
 - [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDXniIuAuCMqHY9oxCPE66n9K7Hw_9F1cfgnYaEhfoVrujJdlswhZhNz6lKFUs6gz6b9MJ_AMAmoNoJGzYKHjDlJQUsVGO5Q6TCBJnBmAx2zi2A83do1FIt5-d49ov_fTBCpBI_9nwP0xomjK6VT2MTMXrOUDK5fvsQAJEnz0cQ98I8cbY1BpypKsBEnItX66Vsb4paUNdsSZxVPggwd2vJ_sYd5obr4NGFWCMm7nDnxPMQA8iySj521bN9vnN | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 - [ ] https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoey31NQFuCF_NAvh8WYOIxMlnCwAUq9JfJqrLlWYEh4-DLhM6vDjnvYqsCdtT3ZiGgmblGddZhp0Iwm8pea5MVhLzkRePc0eq5GzVE_uB_DqOMaEI69fqb443ndPQDT2c53v5EljjLzTlUwIrVnCo54Wg-Sxr8NZe_OejBw== | Duvo Inc | Forward Deployed Engineer

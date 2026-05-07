@@ -278,6 +278,150 @@ search_queries:
     query: 'site:news.ycombinator.com OR site:hnrss.org "AI Engineer" OR "Forward Deployed" OR "DevRel" OR "Founding Engineer" remote'
     enabled: true
 
+  # -- Global Remote (anywhere in the world, tagged remote: true for --remote flag) --
+
+  - name: Remote — Himalayas AI Global
+    query: 'site:himalayas.app "AI Engineer" OR "Applied AI" OR "Solutions Architect" OR "Forward Deployed" OR "AI Product Manager" remote worldwide'
+    remote: true
+    enabled: true
+
+  - name: Remote — WeWorkRemotely AI
+    query: 'site:weworkremotely.com "AI Engineer" OR "LLM Engineer" OR "Applied AI" OR "Solutions Architect" OR "Forward Deployed" remote'
+    remote: true
+    enabled: true
+
+  - name: Remote — RemoteOK AI Senior
+    query: 'site:remoteok.com "AI" OR "LLM" OR "GenAI" "Senior" OR "Staff" OR "Lead" OR "Principal" Engineer OR Architect remote'
+    remote: true
+    enabled: true
+
+  - name: Remote — Remotive AI Engineering
+    query: 'site:remotive.com "AI Engineer" OR "Applied AI" OR "Solutions Architect" OR "Forward Deployed" OR "GenAI" remote worldwide'
+    remote: true
+    enabled: true
+
+  - name: Remote — Remote.co AI Tech
+    query: 'site:remote.co/remote-jobs "AI" OR "Machine Learning" OR "LLM" OR "GenAI" Engineer OR Architect OR "Product Manager" remote'
+    remote: true
+    enabled: true
+
+  - name: Remote — Otta AI Engineering
+    query: 'site:otta.com "AI Engineer" OR "Applied AI" OR "Solutions Architect" OR "Forward Deployed" OR "Founding Engineer" remote worldwide'
+    remote: true
+    enabled: true
+
+  - name: Remote — Wellfound AI Startups Global
+    query: 'site:wellfound.com "AI Engineer" OR "Applied AI" OR "AI Product Manager" OR "Founding Engineer" OR "Forward Deployed" remote worldwide'
+    remote: true
+    enabled: true
+
+  - name: Remote — YC Startups AI Global
+    query: 'site:workatastartup.com "AI Engineer" OR "Applied AI" OR "LLM" OR "Solutions Architect" OR "Forward Deployed" remote worldwide'
+    remote: true
+    enabled: true
+
+  - name: Remote — Greenhouse AI Global
+    query: 'site:job-boards.greenhouse.io "AI Engineer" OR "Applied AI" OR "Solutions Architect" OR "Forward Deployed" "remote" OR "anywhere"'
+    remote: true
+    enabled: true
+
+  - name: Remote — Ashby AI Global
+    query: 'site:jobs.ashbyhq.com "AI Engineer" OR "Applied AI" OR "Solutions Architect" OR "Forward Deployed" OR "AI Product Manager" "remote" OR "anywhere"'
+    remote: true
+    enabled: true
+
+  - name: Remote — LinkedIn AI Worldwide
+    query: 'site:linkedin.com/jobs "AI Engineer" OR "Applied AI" OR "Solutions Architect" OR "Head of AI" remote worldwide'
+    remote: true
+    enabled: true
+
+  - name: Remote — Indeed AI Worldwide
+    query: 'site:indeed.com "AI Engineer" OR "AI Product Manager" OR "Solutions Architect" OR "Applied AI" "remote" -"on-site" worldwide OR global'
+    remote: true
+    enabled: true
+
+  - name: Remote — Jobspresso AI Tech
+    query: 'site:jobspresso.co "AI" OR "Machine Learning" OR "Solutions Architect" OR "Developer Advocate" remote'
+    remote: true
+    enabled: true
+
+  - name: Remote — Working Nomads AI
+    query: 'site:workingnomads.com "AI Engineer" OR "Applied AI" OR "Solutions Architect" OR "Developer Advocate" OR "Forward Deployed" remote worldwide'
+    remote: true
+    enabled: true
+
+  # -- India job boards --
+
+  - name: Naukri — AI Engineering Manager
+    query: 'site:naukri.com "Head of AI" OR "AI Engineering Manager" OR "VP Engineering AI" OR "Director AI" Bengaluru OR remote'
+    enabled: true
+
+  - name: Naukri — AI Solutions Architect
+    query: 'site:naukri.com "AI Solutions Architect" OR "Solutions Architect" "AI" OR "ML" Bengaluru OR remote'
+    enabled: true
+
+  - name: Naukri — Applied AI Engineer
+    query: 'site:naukri.com "AI Engineer" OR "Applied AI" OR "LLM Engineer" OR "GenAI Engineer" Bengaluru OR remote'
+    enabled: true
+
+  - name: Naukri — Automation & AI Product
+    query: 'site:naukri.com "AI Product Manager" OR "Product Manager AI" OR "Automation Architect" Bengaluru OR remote'
+    enabled: true
+
+  - name: LinkedIn — AI Senior Roles India
+    query: 'site:linkedin.com/jobs "Head of AI" OR "AI Engineering Manager" OR "Applied AI" OR "AI Solutions Architect" India'
+    enabled: true
+
+  - name: LinkedIn — GenAI & LLM Engineer India
+    query: 'site:linkedin.com/jobs "GenAI" OR "LLM" OR "AI Agent" OR "Agentic AI" Engineer OR Architect India OR remote'
+    enabled: true
+
+  - name: Indeed — AI Tech Roles India
+    query: 'site:in.indeed.com "AI Engineer" OR "AI Product Manager" OR "Solutions Architect" AI Bengaluru OR India OR remote'
+    enabled: true
+
+  - name: Foundit — AI Senior India
+    query: 'site:foundit.in "AI Engineer" OR "AI Architect" OR "Head of AI" OR "Applied AI" Bengaluru OR remote'
+    enabled: true
+
+  - name: Instahyre — AI Startup Roles
+    query: 'site:instahyre.com "AI" OR "LLM" OR "GenAI" Engineer OR Architect OR "Product Manager" Bengaluru OR remote'
+    enabled: true
+
+  - name: Cutshort — AI Tech Startups India
+    query: 'site:cutshort.io "AI Engineer" OR "AI Product" OR "Applied AI" OR "LLM" OR "Agentic" Bengaluru OR remote India'
+    enabled: true
+
+  - name: iimjobs — AI Leadership India
+    query: 'site:iimjobs.com "Head of AI" OR "VP AI" OR "AI Product Manager" OR "AI Director" OR "Applied AI" India'
+    enabled: true
+
+  - name: Hirist — AI Engineering India
+    query: 'site:hirist.tech "AI Engineer" OR "LLM Engineer" OR "GenAI" OR "AI Architect" OR "Solutions Architect" Bengaluru OR remote'
+    enabled: true
+
+  - name: Wellfound — AI Startups India & Remote
+    query: 'site:wellfound.com "AI Engineer" OR "AI Product Manager" OR "Applied AI" OR "Founding Engineer" India OR remote'
+    enabled: true
+
+  # -- UAE / Middle East job boards --
+
+  - name: Bayt — AI Tech UAE
+    query: 'site:bayt.com "AI Engineer" OR "AI Solutions Architect" OR "Applied AI" OR "Head of AI" UAE OR Dubai OR "Abu Dhabi"'
+    enabled: true
+
+  - name: GulfTalent — AI & Tech UAE
+    query: 'site:gulftalent.com "AI Engineer" OR "Solutions Architect" OR "AI Product Manager" Dubai OR UAE OR "Middle East"'
+    enabled: true
+
+  - name: LinkedIn — AI Senior Roles UAE
+    query: 'site:linkedin.com/jobs "AI Engineer" OR "AI Solutions Architect" OR "Head of AI" OR "Applied AI" Dubai OR UAE OR "Abu Dhabi"'
+    enabled: true
+
+  - name: Indeed — AI Roles UAE
+    query: 'site:ae.indeed.com "AI Engineer" OR "AI Product Manager" OR "Solutions Architect" OR "Applied AI" Dubai OR UAE'
+    enabled: true
+
 # -- Tracked companies --
 # Companies whose career pages are checked directly.
 # scan_method: playwright (default), websearch, greenhouse_api
@@ -403,8 +547,8 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/ada
     scan_method: websearch
     scan_query: '"ada.cx" OR "ada" "AI" "Solutions" OR "Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io'
-    notes: "Toronto + remote. AI customer service."
-    enabled: true
+    notes: "Toronto + remote. AI customer service. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   - name: LivePerson
     careers_url: https://liveperson.com/company/careers
@@ -549,8 +693,8 @@ tracked_companies:
 
   - name: Weights & Biases
     careers_url: https://jobs.lever.co/wandb
-    notes: "MLOps platform."
-    enabled: true
+    notes: "MLOps platform. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   - name: Palantir
     careers_url: https://jobs.lever.co/palantir
@@ -563,8 +707,8 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/factorial
     scan_method: websearch
     scan_query: 'site:jobs.greenhouse.io/factorial'
-    notes: "Barcelona. HR SaaS unicorn."
-    enabled: true
+    notes: "Barcelona. HR SaaS unicorn. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   - name: Attio
     careers_url: https://jobs.ashbyhq.com/attio
@@ -577,22 +721,22 @@ tracked_companies:
     careers_url: https://jobs.ashbyhq.com/tinybird
     scan_method: websearch
     scan_query: 'site:tinybird.co/careers OR site:jobs.ashbyhq.com/tinybird'
-    notes: "Remote. Real-time data platform."
-    enabled: true
+    notes: "Remote. Real-time data platform. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   - name: Clarity AI
     careers_url: https://jobs.lever.co/clarity-ai
     scan_method: websearch
     scan_query: 'site:clarity.ai/careers OR site:jobs.lever.co/clarity-ai'
-    notes: "Madrid/Remote. Sustainability analytics with AI."
-    enabled: true
+    notes: "Madrid/Remote. Sustainability analytics with AI. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   - name: Travelperk
     careers_url: https://jobs.ashbyhq.com/travelperk
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/travelperk'
-    notes: "Barcelona. Business travel unicorn."
-    enabled: true
+    notes: "Barcelona. Business travel unicorn. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   # -- DACH & European AI ecosystem --
   # All entries below have been verified against the Greenhouse / Ashby /
@@ -683,8 +827,8 @@ tracked_companies:
 
   - name: Forto
     careers_url: https://jobs.lever.co/forto
-    notes: "Berlin DE. Digital freight forwarder, product & data roles, German + English."
-    enabled: true
+    notes: "Berlin DE. Digital freight forwarder, product & data roles, German + English. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   # -- Switzerland / Austria AI --
 
@@ -799,8 +943,8 @@ tracked_companies:
 
   - name: Vinted
     careers_url: https://jobs.lever.co/vinted
-    notes: "Vilnius LT / Berlin. C2C marketplace unicorn, data science & ML roles."
-    enabled: true
+    notes: "Vilnius LT / Berlin. C2C marketplace unicorn, data science & ML roles. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   # -- Iberia AI --
 
@@ -829,8 +973,8 @@ tracked_companies:
   - name: Runway
     careers_url: https://job-boards.greenhouse.io/runwayml
     api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
-    notes: "Generative AI video and creative tooling platform."
-    enabled: true
+    notes: "Generative AI video and creative tooling platform. [DISABLED: slug returning 404 — verify current ATS URL]"
+    enabled: false
 
   - name: Hightouch
     careers_url: https://job-boards.greenhouse.io/hightouch
