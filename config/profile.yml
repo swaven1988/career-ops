@@ -1,0 +1,72 @@
+# Career-Ops Profile Configuration
+# Copy this file to config/profile.yml and fill in your details.
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Venkatesh"
+  email: "swaven1988@gmail.com"
+  phone: "+91-9148978913"
+  location: "Bengaluru, India"
+  linkedin: "linkedin.com/in/mrvenkatesh"
+  portfolio_url: ""
+  github: ""
+  twitter: ""
+
+target_roles:
+  # Your North Star roles — what you're optimizing for
+  primary:
+    - "Senior Data Platform Engineer"
+    - "Staff Data Engineer"
+    - "Solutions Architect (Data)"
+  # Archetypes help the evaluation system score fit
+  archetypes:
+    - name: "Data Platform Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+    - name: "Big Data Architect"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Solutions Architect"
+      level: "Mid-Senior"
+      fit: "adjacent"
+
+narrative:
+  # Your professional headline (1 line)
+  headline: "Senior Data Platform Engineer | 14+ Years Exp | Big Data & Cloud Native Specialist"
+  # Your exit story — what makes you unique
+  exit_story: "14+ years of expertise in building high-scale data platforms. Most recently optimized Spark pipelines at NucleusTeq, achieving 80% performance gains. Expert in zero-downtime migrations and reliable data ecosystems."
+  # Your top 3-5 superpowers
+  superpowers:
+    - "High-scale Spark/EMR optimization (70-85% gains)"
+    - "Zero-downtime Big Data migrations (Multi-TB scale)"
+    - "Data Reliability & Observability (SLA-driven)"
+    - "Cloud-native architecture (Iceberg/Trino/AWS)"
+  # Proof points — projects, articles, case studies with measurable impact
+  proof_points:
+    - name: "Spark Performance Transformation"
+      url: ""
+      hero_metric: "Reduced execution from 3h to 25m (85% gain)"
+    - name: "Enterprise Observability"
+      url: ""
+      hero_metric: "30-40% reduction in production incidents"
+    - name: "Cloud Cost Optimization"
+      url: ""
+      hero_metric: "25-35% reduction in compute costs"
+  # Optional: dashboard/demo URL with credentials
+  # dashboard:
+  #   url: "https://janesmith.dev/demo"
+  #   password: "demo-2026"
+
+compensation:
+  target_range: "₹5,000,000 - ₹8,000,000"     # Adjust as needed
+  currency: "INR"
+  minimum: "₹4,000,000"
+  location_flexibility: "Remote priority; open to relocation with visa sponsorship"
+
+location:
+  country: "India"
+  city: "Bengaluru"
+  timezone: "IST"
+  visa_status: "Visa sponsorship required for US/EU roles"
+  # For remote roles outside your country:
+  # onsite_availability: "1 week/month in any city"

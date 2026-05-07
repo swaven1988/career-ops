@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Venkatesh — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('../fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('../fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'DM Sans', sans-serif; font-size: 11px; line-height: 1.5; color: #1a1a2e; background: #ffffff; }
+  .page { width: 100%; max-width: 210mm; margin: 0 auto; padding: 20px 40px; }
+  .header { margin-bottom: 20px; }
+  .header h1 { font-family: 'Space Grotesk', sans-serif; font-size: 28px; font-weight: 700; color: #1a1a2e; letter-spacing: -0.02em; margin-bottom: 6px; }
+  .header-gradient { height: 2px; background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%)); margin-bottom: 10px; }
+  .contact-row { display: flex; flex-wrap: wrap; gap: 8px 14px; font-size: 10.5px; color: #555; }
+  .contact-row a { color: #555; text-decoration: none; }
+  .section { margin-bottom: 18px; }
+  .section-title { font-family: 'Space Grotesk', sans-serif; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: hsl(187, 74%, 32%); border-bottom: 1.5px solid #e2e2e2; padding-bottom: 4px; margin-bottom: 10px; }
+  .summary-text { font-size: 11px; line-height: 1.7; color: #2f2f2f; }
+  .competencies-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+  .competency-tag { font-weight: 500; color: hsl(187, 74%, 28%); background: hsl(187, 40%, 95%); padding: 4px 10px; border-radius: 3px; border: 1px solid hsl(187, 40%, 88%); }
+  .job { margin-bottom: 14px; break-inside: avoid; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 4px; }
+  .job-company { font-family: 'Space Grotesk', sans-serif; font-size: 12.5px; font-weight: 600; color: hsl(270, 70%, 45%); }
+  .job-period { font-size: 10.5px; color: #777; }
+  .job-role { font-size: 11px; font-weight: 600; color: #333; margin-bottom: 6px; }
+  .job ul { padding-left: 18px; margin-top: 6px; }
+  .job li { font-size: 10.5px; line-height: 1.6; color: #333; margin-bottom: 4px; }
+  .edu-item { margin-bottom: 8px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+  .edu-title { font-weight: 600; color: #333; }
+  .edu-org { color: hsl(270, 70%, 45%); font-weight: 500; }
+  .cert-item { display: flex; justify-content: space-between; margin-bottom: 6px; }
+  .cert-org { color: hsl(270, 70%, 45%); }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>VENKATESH</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>+91-9148978913</span>
+      <span>|</span>
+      <span>swaven1988@gmail.com</span>
+      <span>|</span>
+      <a href="https://linkedin.com/in/mrvenkatesh">linkedin.com/in/mrvenkatesh</a>
+      <span>|</span>
+      <span>Bengaluru, India</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">
+      Senior Data Infrastructure & Platform Specialist with 14+ years of experience in architecting and managing high-scale Big Data ecosystems. Expert in <strong>Hadoop Administration</strong>, security hardening (<strong>Kerberos, Ranger</strong>), and <strong>performance tuning</strong> across on-prem and cloud environments (AWS EMR). Proven track record in optimizing resource allocation, reducing compute costs by 35%, and ensuring 24/7 reliability for enterprise financial data platforms.
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Hadoop Ecosystem (HDFS, YARN)</span>
+      <span class="competency-tag">Security (Kerberos, Ranger, KMS)</span>
+      <span class="competency-tag">Apache Kafka & HBase</span>
+      <span class="competency-tag">Spark & PySpark Optimization</span>
+      <span class="competency-tag">Cluster Hardening & Remediation</span>
+      <span class="competency-tag">Performance Tuning & RCA</span>
+      <span class="competency-tag">AWS EMR & Solutions Architecture</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Senior Data Platform Lead</span>
+        <span class="job-period">Present</span>
+      </div>
+      <div class="job-role">Big Data & Cloud Native Specialist</div>
+      <ul>
+        <li>Architected and managed enterprise-grade <strong>Hadoop and Spark</strong> clusters, achieving a <strong>35% reduction in compute costs</strong> through YARN queue optimization and fine-tuning.</li>
+        <li>Led **Security Remediation** efforts, implementing <strong>Kerberos</strong> authentication and <strong>Ranger</strong> authorization policies across multi-tenant production clusters.</li>
+        <li>Engineered robust monitoring and alerting frameworks for <strong>Kafka and HBase</strong>, reducing MTTR for production incidents by 40%.</li>
+        <li>Optimized <strong>HDFS</strong> storage performance and data governance policies for high-throughput financial datasets.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Genpact</span>
+        <span class="job-period">Jun 2011 – Feb 2015</span>
+      </div>
+      <div class="job-role">Senior Associate | Technical Support & Systems</div>
+      <ul>
+        <li>Managed technical operations and data processing for enterprise financial systems, ensuring high availability and data integrity.</li>
+        <li>Performed root cause analysis (RCA) for complex system failures and optimized data ingestion workflows.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Certifications</div>
+    <div class="cert-item">
+      <span class="cert-title">AWS Certified Solutions Architect – Associate</span>
+      <span class="cert-org">Amazon Web Services</span>
+    </div>
+    <div class="cert-item">
+      <span class="cert-title">AWS Certified Machine Learning – Specialty</span>
+      <span class="cert-org">Amazon Web Services</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">B.Sc. in Computer Science</span>
+        <span class="edu-org">Sri Venkateswara University</span>
+        <span class="edu-year">2008</span>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
